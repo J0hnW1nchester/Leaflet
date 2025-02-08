@@ -1,0 +1,39 @@
+*,
+*:before,
+*:after {
+  /* + prevents padding from affecting height and width */
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* + Hides the blue square highlight when clicking on stuff */
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+  cursor: context-menu;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* + HIDES THE SCROLLBAR BUT LEAVES THE ABILITY TO SCROLL*/
+body::-webkit-scrollbar {
+  display: none;
+  overflow-x: clip;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  list-style-type: none;
+}

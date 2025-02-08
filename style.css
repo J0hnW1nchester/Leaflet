@@ -1,0 +1,680 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* ! Defaults, variables and keyframes */
+:root {
+  --primary-color: #04c842;
+  --secondary-color: #971010;
+  --light-color: #f3f3f3;
+  --dark-color: #333;
+  --max-width: 1100px;
+  --sports-color: #f99500;
+  --ent-color: #a66bbe;
+  --tech-color: #009cff;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+body {
+  font-family: 'Poppins', serif;
+}
+
+p {
+  margin: 0.5rem 0;
+  color: #fff;
+}
+
+img {
+  width: 100%;
+}
+
+/* ! Utilities */
+.event-link {
+  display: block;
+  color: #fff;
+  transition: 0.3s;
+}
+
+.category {
+  display: inline-block;
+  color: #fff;
+  font-size: 0.55rem;
+  text-transform: uppercase;
+  padding: 0.4rem 0.6rem;
+  border-radius: 15px;
+  margin-bottom: 0.5rem;
+}
+
+.category-sports {
+  background: var(--sports-color);
+
+  & + h3 > .event-link:hover {
+    color: var(--sports-color);
+  }
+}
+
+.category-ent {
+  background: var(--ent-color);
+
+  & + h3 > .event-link:hover {
+    color: var(--ent-color);
+  }
+}
+
+.category-tech {
+  background: var(--tech-color);
+
+  & + h3 > .event-link:hover {
+    color: var(--tech-color);
+  }
+}
+
+/* ! Event card */
+.card {
+  padding: 1rem;
+  backdrop-filter: blur(24px);
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 7px;
+  /* display: flex; */
+  /* align-items: start; */
+  /* flex-direction: column; */
+  height: fit-content;
+}
+
+/* ! Background video */
+#bg-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  opacity: 0.8;
+  z-index: -1;
+}
+
+/* ! Overlay */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  width: 100vw;
+  height: 100vh;
+  background: #0393d6;
+  mix-blend-mode: overlay;
+}
+
+/* ! Hamburger Menu */
+.menu {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 250px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+
+  ul {
+    position: relative;
+    color: #fff;
+    z-index: 2;
+
+    li {
+      a {
+        font-size: 24px;
+        color: #fff;
+
+        &:hover {
+          color: #03a9f4;
+        }
+      }
+    }
+  }
+}
+
+/* + Disables scrolling when menu is open and prevents outside elements from being clickable while the menu is open */
+body.menu-open {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+
+  .menu {
+    pointer-events: auto;
+  }
+
+  .toggle.active {
+    pointer-events: auto;
+  }
+}
+
+/* ! To Top button */
+#scroll-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  height: 50px;
+  width: 50px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.7s ease;
+
+  img {
+    width: 80%;
+    filter: invert(1); /* + Turns the arrow white */
+  }
+
+  &:hover {
+    transform: scale(1.2);
+  }
+}
+
+/* / MOBILE 360px | MAIN STYLING  */
+@media only screen and (min-width: 0px) {
+  /* ! Main container */
+  .main-container {
+    position: relative;
+    height: 200vh; /* + viewport increment in hundreds depending on the number of sections */
+
+    /* ! Home section */
+    #home-section {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+
+      .home-section-container {
+        position: absolute;
+        right: 0;
+        width: 100%;
+        min-height: 100vh;
+        padding: 40px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color: #fff;
+        transition: 0.5s;
+        z-index: 2;
+        text-align: center;
+
+        &.active {
+          right: 250px;
+        }
+
+        /* * Header */
+        header {
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          padding: 40px;
+          z-index: 9999;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+
+          #leaflet-logo {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: left;
+            cursor: pointer;
+
+            #leaflet-logo-img {
+              width: auto;
+              width: 25%;
+            }
+
+            .logo-text {
+              color: #fff;
+              text-transform: uppercase;
+              cursor: context-menu;
+              padding-top: 10px;
+              font-size: 0.8rem;
+            }
+          }
+
+          /* * Toggle burger */
+          .toggle {
+            position: relative;
+            width: 60px;
+            height: 60px;
+            background-image: url(/media/icons/MenuOpenIcon.svg);
+            filter: invert(1);
+            background-repeat: no-repeat;
+            background-size: 30px;
+            background-position: center;
+            cursor: pointer;
+
+            &.active {
+              background: url(/media/icons/MenuCloseIcon.svg);
+              filter: invert(1);
+              background-repeat: no-repeat;
+              background-size: 30px;
+              background-position: center;
+              cursor: pointer;
+            }
+          }
+        }
+
+        /* * Home section text */
+        .text {
+          position: relative;
+          cursor: context-menu;
+          z-index: 10;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+
+          h2 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            color: #fff;
+            line-height: 1em;
+            text-transform: uppercase;
+          }
+
+          h3 {
+            font-size: 1.23rem;
+            font-weight: 700;
+            color: #fff;
+            line-height: 1em;
+            text-transform: uppercase;
+          }
+
+          p {
+            font-size: 1rem;
+            margin: 20px 0;
+            font-weight: 400;
+            max-width: 500px;
+          }
+
+          /* * Download button */
+          a {
+            display: inline-block;
+            font-size: 1rem;
+            padding: 10px 30px;
+            margin-top: 5px;
+            text-transform: uppercase;
+            font-weight: 500;
+            color: #fff;
+            letter-spacing: 2px;
+            transition: 0.2s;
+            backdrop-filter: blur(24px);
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            border-radius: 7px;
+
+            &:hover {
+              letter-spacing: 6px;
+            }
+
+            &.hover-effect:hover {
+              letter-spacing: 6px;
+            }
+          }
+        }
+
+        /* * Event arrow down */
+        .arrow-down {
+          width: 240px;
+          width: aut;
+          margin-top: 40px;
+          animation: pulse 2.5s linear infinite;
+          font-size: 1rem;
+          /* border: 1px solid #fff; */
+
+          &:hover {
+            animation: none;
+            transform: scale(1.3);
+          }
+
+          p {
+            margin: 0px;
+            text-transform: uppercase;
+            font-weight: 500;
+          }
+
+          img {
+            width: 20%;
+            filter: invert(1); /* + Turns the arrow white */
+          }
+        }
+
+        /* * Social icons */
+        .social {
+          position: absolute;
+          z-index: 10;
+          bottom: 0px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          opacity: 1;
+          transition: opacity 0.7s ease;
+
+          li {
+            a {
+              display: inline-block;
+              margin: 20px;
+              filter: invert(1);
+              transform: scale(0.5);
+              transition: 0.5s;
+
+              &:hover {
+                transform: scale(0.5) translateY(-15px);
+              }
+            }
+            #fb {
+              scale: 0.8;
+              width: 40px;
+            }
+
+            #tw {
+              width: 55px;
+            }
+
+            #ig {
+              width: 50px;
+            }
+          }
+        }
+      }
+    }
+
+    /* ! Event section */
+    #event-section {
+      position: absolute;
+      top: 100vh;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      z-index: 2;
+      display: grid;
+      align-items: center;
+      justify-content: center;
+
+      .event-section-container {
+        padding: 2rem 0;
+        height: 100vh;
+
+        .events-container {
+          display: grid;
+          grid-template-columns: 1fr;
+          gap: 1rem;
+          /* align-items: center;
+          justify-content: center; */
+          width: 70vw;
+          margin-top: 80px;
+
+          p {
+            display: none;
+          }
+        }
+      }
+    }
+
+    /* ! Event page styling */
+    &.event-page {
+      height: 100vh;
+
+      .card-container {
+        max-width: 700px;
+        margin-top: 70px;
+      }
+
+      /* * Back button */
+      .back-button {
+        display: inline-block;
+        padding: 10px 30px;
+        margin-top: 20px;
+        color: #fff;
+        font-size: 1rem;
+        letter-spacing: 2px;
+        font-weight: 500;
+        text-transform: uppercase;
+        background: rgba(255, 255, 255, 0.1);
+        backdrop-filter: blur(24px);
+        border: 1px solid rgba(255, 255, 255, 0.5);
+        border-radius: 7px;
+        transition: 0.2s;
+
+        &:hover {
+          transform: scale(1.1);
+        }
+      }
+    }
+
+    /* ! Privacy-policy page styling */
+    &.privacy-policy-page {
+      height: 100vh;
+
+      .privacy-policy-container {
+        margin-top: 150px;
+        padding: 0px;
+
+        .privacy-policy-text {
+          min-width: 60vw;
+          padding: 0px;
+        }
+      }
+    }
+
+    /* ! Features page styling */
+    &.features-page {
+      height: 100vh;
+
+      .features-container {
+        margin-top: 100px;
+
+        .features-list {
+          font-size: 1rem;
+          margin: 20px 0;
+          max-width: 60vw;
+          text-align: left;
+          /* text-align: center; */
+
+          li {
+            margin: 15px 0;
+            list-style-type: initial;
+            font-weight: 600;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* / SMALL LANDSCAPE 568px */
+@media only screen and (min-width: 568px) {
+  .main-container {
+    /* ! Home section */
+    #home-section {
+      .home-section-container {
+        header {
+          #leaflet-logo {
+            .logo-text {
+              font-size: 1rem;
+            }
+          }
+        }
+
+        .text {
+          h2 {
+            font-size: 4rem;
+          }
+
+          h3 {
+            font-size: 1.8rem;
+          }
+
+          p {
+            font-size: 1rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* / LARGE LANDSCAPE 666px */
+@media only screen and (min-width: 666px) {
+  .main-container {
+    /* ! Home section */
+    #home-section {
+      .home-section-container {
+        header {
+          #leaflet-logo {
+            .logo-text {
+              font-size: 1.1rem;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+/* / TABLET 768px */
+@media only screen and (min-width: 768px) {
+  .main-container {
+    /* ! Home section */
+    #home-section {
+      .home-section-container {
+        header {
+          #leaflet-logo {
+            .logo-text {
+              font-size: 1.2rem;
+            }
+          }
+        }
+
+        .text {
+          h2 {
+            font-size: 4.3rem;
+          }
+
+          h3 {
+            font-size: 1.9rem;
+          }
+
+          p {
+            font-size: 1.1rem;
+          }
+        }
+      }
+    }
+
+    /* ! Event section */
+    #event-section {
+      .event-section-container {
+        .events-container {
+          grid-template-columns: repeat(2, 1fr);
+
+          /* p {
+            display: block;
+          } */
+        }
+      }
+    }
+  }
+}
+
+/* / LARGE TABLET / SMALL LAPTOP 1024px */
+@media only screen and (min-width: 1024px) {
+  .main-container {
+    /* ! Home section */
+    #home-section {
+      .home-section-container {
+        header {
+          #leaflet-logo {
+            .logo-text {
+              font-size: 1.3rem;
+            }
+          }
+        }
+
+        .text {
+          h2 {
+            font-size: 5.5rem;
+          }
+
+          h3 {
+            font-size: 2.4rem;
+          }
+
+          p {
+            font-size: 1.2rem;
+          }
+
+          a {
+            font-size: 1.2rem;
+          }
+        }
+      }
+    }
+
+    /* ! Event section */
+    #event-section {
+      .event-section-container {
+        .events-container {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+    }
+  }
+}
+
+/* / FULL DESKTOP 1300px */
+@media only screen and (min-width: 1300px) {
+  .main-container {
+    /* ! Home section */
+    #home-section {
+      .home-section-container {
+        .arrow-down {
+          margin-top: 50px;
+          font-size: 1.1rem;
+        }
+      }
+    }
+
+    /* ! Event section */
+    #event-section {
+      .event-section-container {
+        .events-container {
+          grid-template-columns: repeat(4, 1fr);
+        }
+      }
+    }
+  }
+}
+
+/* / FULL DESKTOP 2500px */
+@media only screen and (min-width: 2500px) {
+}
