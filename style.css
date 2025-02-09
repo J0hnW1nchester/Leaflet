@@ -104,6 +104,7 @@ img {
   object-fit: cover;
   opacity: 0.8;
   z-index: -1;
+  transition: 0.3s ease-in-out;
 }
 
 /* ! Overlay */
