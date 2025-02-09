@@ -55,3 +55,17 @@ document.getElementById('scroll-button').addEventListener('click', function () {
 document.querySelector('.text a').addEventListener('click', function () {
   this.classList.add('hover-effect');
 });
+
+// Get the background element and the scroll threshold
+const background = document.querySelector('#bg-video');
+const threshold = 300; // Configure the amount of scroll for the blur to appear
+
+// Add an event listener to the window's scroll event
+window.addEventListener('scroll', () => {
+  const scrollPosition = window.scrollY;
+  if (scrollPosition >= threshold) {
+    background.classList.add('blur');
+  } else {
+    background.classList.remove('blur');
+  }
+});
