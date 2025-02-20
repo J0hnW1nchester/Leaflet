@@ -1,0 +1,15 @@
+Support us page: 
+
+PNG photo
+
+.....................................................
+
+blur background on privacy policy, support us page
+
+..........................................
+
+Maybe a default photo for when .json file has none
+
+..........................................
+
+Probably removing event.html and article.html
