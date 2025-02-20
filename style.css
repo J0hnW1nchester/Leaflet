@@ -79,7 +79,7 @@ img {
 }
 
 .dark-background {
-  background: #222
+  background: #222;
 }
 
 /* ! Event card */
@@ -496,7 +496,12 @@ body.menu-open {
       .privacy-policy-container {
         margin-top: 150px;
         padding: 0px;
-        
+
+        /* * Support us IMG */
+        img {
+          width: 200px;
+          margin-top: 15px;
+        }
 
         .privacy-policy-text {
           min-width: 60vw;
