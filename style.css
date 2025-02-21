@@ -234,6 +234,7 @@ body.menu-open {
         text-align: center;
 
         &.active {
+          /* + Pushes the home content to the left */
           right: 250px;
         }
 
@@ -321,7 +322,7 @@ body.menu-open {
           p {
             font-size: 1rem;
             margin: 20px 0;
-            font-weight: 400;
+            font-weight: 500;
             max-width: 500px;
           }
 
@@ -501,6 +502,7 @@ body.menu-open {
         img {
           width: 200px;
           margin-top: 15px;
+          border-radius: 15px;
         }
 
         .privacy-policy-text {

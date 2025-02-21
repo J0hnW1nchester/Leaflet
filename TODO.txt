@@ -1,15 +1,50 @@
-Support us page: 
-
-PNG photo
-
-.....................................................
-
-blur background on privacy policy, support us page
-
-..........................................
-
 Maybe a default photo for when .json file has none
 
 ..........................................
 
-Probably removing event.html and article.html
+Probably removing event.html
+
+.........................................
+
+check that pesky last .card so that its not stuck to the bottom of the screen 
+
+........................................
+
+remove seconds interval from timestamp
+
+........................................
+
+icons instead of date/location
+
+........................................
+
+title, img, date, location
+
+........................................
+
+make images same sizes
+
+........................................
+
+add ticket price and currency
+
+........................................
+
+breakpoints in privacy policy
+
+........................................
+
+support us align 
+
+........................................
+
+comment out features
+
+........................................
+
+footer on home screen - contact (background)
+info@leaflet.lt
+
+........................................
+
+press on card  - bigger card
