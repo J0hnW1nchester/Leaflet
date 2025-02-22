@@ -6,11 +6,6 @@ check that pesky last .card so that its not stuck to the bottom of the screen
 
 ........................................
 
-icons instead of date/location
-
-........................................
-
-
 breakpoints in privacy policy
 
 ........................................

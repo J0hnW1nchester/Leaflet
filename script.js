@@ -2,13 +2,12 @@ const menuToggle = document.querySelector('.toggle');
 const menuShowcase = document.querySelector('.home-section-container');
 const menu = document.querySelector('.menu');
 const topButton = document.getElementById('scroll-button');
-const social = document.querySelector('.social');
+// const social = document.querySelector('.social');
+const footer = document.querySelector('.footer');
 
 menuToggle.addEventListener('click', () => {
   menuToggle.classList.toggle('active');
-  document.body.classList.toggle(
-    'menu-open'
-  ); /// Disables scrolling when menu is open
+  document.body.classList.toggle('menu-open'); /// Disables scrolling when menu is open
   menuShowcase.classList.toggle('active');
   menu.style.opacity = menuToggle.classList.contains('active') ? '1' : '0';
 });
@@ -34,11 +33,15 @@ window.addEventListener('scroll', function () {
   }
 
   if (scrollPosition >= socialThreshold) {
-    /// Hide the .social
-    social.style.opacity = '0';
+    /// Hide the .social and .footer
+    // social.style.opacity = '0';
+    footer.style.opacity = '0';
+    footer.style.pointerEvents = 'none';
   } else {
-    /// Show the .social
-    social.style.opacity = '1';
+    /// Show the .social and .footer
+    // social.style.opacity = '1';
+    footer.style.opacity = '1';
+    footer.style.pointerEvents = 'auto';
   }
 });
 

@@ -91,11 +91,17 @@ fetch('data.json')
         return `
           <article class="card">
             <h3>${eventName}</h3>
+
             <img src="${eventImg}" alt="${eventName}" class="event-img" onerror="this.onerror=null;this.src='media/img/ALT_IMG.webp';">
-            <p><strong>Date:</strong> ${eventDate}</p>
-            <p><strong>Time:</strong> ${eventTime}</p>
-            <p><strong>Location:</strong> ${eventLocation}</p>
-            <p><strong>Price:</strong> ${eventPrice}</p>
+
+            <p><strong>Date:</strong>&nbsp; ${eventDate}</p>
+
+            <p><img src="media/img/time.svg" class="event-icon"> ${eventTime}</p>
+
+            <p><img src="media/img/location.svg" class="event-icon"> ${eventLocation}</p>
+
+            <p><img src="media/img/ticket.svg" class="event-icon"> ${eventPrice}</p>
+
             <p><a href="${eventUrl}" target="_blank">More Info</a></p>
           </article>
         `;
