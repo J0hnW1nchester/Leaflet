@@ -2,8 +2,8 @@ const menuToggle = document.querySelector('.toggle');
 const menuShowcase = document.querySelector('.home-section-container');
 const menu = document.querySelector('.menu');
 const topButton = document.getElementById('scroll-button');
-// const social = document.querySelector('.social');
-const footer = document.querySelector('.footer');
+const social = document.querySelector('.social');
+const homeFooter = document.querySelector('.home-footer');
 
 menuToggle.addEventListener('click', () => {
   menuToggle.classList.toggle('active');
@@ -35,13 +35,13 @@ window.addEventListener('scroll', function () {
   if (scrollPosition >= socialThreshold) {
     /// Hide the .social and .footer
     // social.style.opacity = '0';
-    footer.style.opacity = '0';
-    footer.style.pointerEvents = 'none';
+    homeFooter.style.opacity = '0';
+    homeFooter.style.pointerEvents = 'none';
   } else {
     /// Show the .social and .footer
     // social.style.opacity = '1';
-    footer.style.opacity = '1';
-    footer.style.pointerEvents = 'auto';
+    homeFooter.style.opacity = '1';
+    homeFooter.style.pointerEvents = 'auto';
   }
 });
 

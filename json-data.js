@@ -37,6 +37,7 @@
 
 // * onerror="this.style.display = 'none'"
 
+// fetch('data.json')
 fetch('data.json')
   .then((response) => {
     if (!response.ok) {
@@ -94,9 +95,7 @@ fetch('data.json')
 
             <img src="${eventImg}" alt="${eventName}" class="event-img" onerror="this.onerror=null;this.src='media/img/ALT_IMG.webp';">
 
-            <p><strong>Date:</strong>&nbsp; ${eventDate}</p>
-
-            <p><img src="media/img/time.svg" class="event-icon"> ${eventTime}</p>
+            <p><img src="media/img/time.svg" class="event-icon"> ${eventDate} ${eventTime}</p>
 
             <p><img src="media/img/location.svg" class="event-icon"> ${eventLocation}</p>
 
