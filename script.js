@@ -4,6 +4,7 @@ const menu = document.querySelector('.menu');
 const topButton = document.getElementById('scroll-button');
 const social = document.querySelector('.social');
 const homeFooter = document.querySelector('.home-footer');
+const stickyHeader = document.querySelector('.sticky-header');
 
 menuToggle.addEventListener('click', () => {
   menuToggle.classList.toggle('active');
@@ -12,36 +13,79 @@ menuToggle.addEventListener('click', () => {
   menu.style.opacity = menuToggle.classList.contains('active') ? '1' : '0';
 });
 
-/// Add event listener to window scroll
+// /// Add event listener to window scroll
+// window.addEventListener('scroll', function () {
+//   /// Get the current scroll position
+//   var scrollPosition = window.scrollY;
+
+//   /// Set the threshold for the button to appear
+//   var buttonThreshold = 150;
+
+//   /// Set the threshold for the .social to disappear
+//   var socialThreshold = 300;
+
+//   /// Check if the user has scrolled past the threshold
+//   if (scrollPosition >= buttonThreshold) {
+//     /// Show the button
+//     topButton.style.opacity = '1';
+//   } else {
+//     /// Hide the button
+//     topButton.style.opacity = '0';
+//   }
+
+//   if (scrollPosition >= socialThreshold) {
+//     /// Hide the .social and .footer
+//     homeFooter.style.opacity = '0';
+//     homeFooter.style.pointerEvents = 'none';
+
+//     stickyHeader.style.opacity = '1';
+//     stickyHeader.style.pointerEvents = 'auto';
+//   } else {
+//     /// Show the .social and .footer
+//     homeFooter.style.opacity = '1';
+//     homeFooter.style.pointerEvents = 'auto';
+
+//     stickyHeader.style.opacity = '0';
+//     stickyHeader.style.pointerEvents = 'none';
+//   }
+// });
+
 window.addEventListener('scroll', function () {
-  /// Get the current scroll position
   var scrollPosition = window.scrollY;
-
-  /// Set the threshold for the button to appear
   var buttonThreshold = 150;
-
-  /// Set the threshold for the .social to disappear
   var socialThreshold = 300;
 
-  /// Check if the user has scrolled past the threshold
-  if (scrollPosition >= buttonThreshold) {
-    /// Show the button
-    topButton.style.opacity = '1';
-  } else {
-    /// Hide the button
-    topButton.style.opacity = '0';
-  }
+  /// Show or hide the top button
+  topButton.style.opacity = scrollPosition >= buttonThreshold ? '1' : '0';
 
   if (scrollPosition >= socialThreshold) {
-    /// Hide the .social and .footer
-    // social.style.opacity = '0';
+    /// Get homeFooter's position to place stickyHeader in the same spot
+    const homeFooterRect = homeFooter.getBoundingClientRect();
+    const footerTop = homeFooterRect.top + window.scrollY;
+
     homeFooter.style.opacity = '0';
     homeFooter.style.pointerEvents = 'none';
+
+    /// Position stickyHeader exactly where homeFooter is initially
+    stickyHeader.style.opacity = '1';
+    stickyHeader.style.pointerEvents = 'auto';
+    stickyHeader.style.position = 'absolute';
+    stickyHeader.style.top = `${footerTop}px`;
+    stickyHeader.style.zIndex = '9999';
+
+    /// Once scrolling past the homeFooter, fix the stickyHeader to the top of the screen
+    if (scrollPosition >= footerTop) {
+      stickyHeader.style.position = 'fixed';
+      stickyHeader.style.top = '0';
+      stickyHeader.style.zIndex = '9999';
+    }
   } else {
-    /// Show the .social and .footer
-    // social.style.opacity = '1';
+    /// Reset to show homeFooter and hide stickyHeader
     homeFooter.style.opacity = '1';
     homeFooter.style.pointerEvents = 'auto';
+
+    stickyHeader.style.opacity = '0';
+    stickyHeader.style.pointerEvents = 'none';
   }
 });
 

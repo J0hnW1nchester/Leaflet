@@ -2,22 +2,12 @@ Probably removing event.html
 
 .........................................
 
-check that pesky last .card so that its not stuck to the bottom of the screen 
-
-........................................
-
 breakpoints in privacy policy
-
-........................................
-
-
-footer on home screen - contact (background)
-info@leaflet.lt
 
 ........................................
 
 press on card  - bigger card
 
-.......................................
+........................................
 
-more info DOOOOOOWN
+keep updating the sticky header buttons and functionality

@@ -1,43 +1,3 @@
-// fetch('data.json')
-//   .then((response) => response.json())
-//   .then((data) => {
-//     /// Path to the events array
-//     const events = data.data.events.edges;
-
-//     if (Array.isArray(events)) {
-//       const eventsContainer = document.querySelector('.events-container'); /// Get the container
-
-//       events.forEach((event) => {
-//         const eventData = event.node; /// Access the event node
-//         const eventHTML = `
-//           <article class="card">
-//             <h3>${eventData.name}</h3>
-//             <p><strong>Date:</strong> ${new Date(
-//               eventData.time_start
-//             ).toLocaleString()}</p>
-//             <p><strong>Location:</strong> ${eventData.location.name}, ${
-//           eventData.location.address
-//         }</p>
-//             <img src="${
-//               eventData.img
-//             }" width="200" onerror="this.onerror=null;this.src='media/img/ALT_IMG.webp';">
-//             <p><a href="${eventData.url}" target="_blank">More Info</a></p>
-//           </article>
-//         `;
-//         eventsContainer.innerHTML += eventHTML;
-//       });
-//     } else {
-//       console.error(
-//         'Expected events to be an array, but it was:',
-//         typeof events
-//       );
-//     }
-//   })
-//   .catch((error) => console.error('Error fetching data:', error));
-
-// * onerror="this.style.display = 'none'"
-
-// fetch('data.json')
 fetch('data.json')
   .then((response) => {
     if (!response.ok) {
@@ -64,9 +24,9 @@ fetch('data.json')
 
         const eventName = eventData.name || 'Unnamed Event';
 
-        // Format Date as year/month/day
+        /// Format Date as year/month/day
         const eventDate = eventData.time_start
-          ? new Date(eventData.time_start).toLocaleDateString('en-CA') // 'en-CA' format is year/month/day
+          ? new Date(eventData.time_start).toLocaleDateString('en-CA') /// 'en-CA' format is year/month/day
           : 'Date not available';
 
         const eventTime = eventData.time_start
@@ -115,3 +75,101 @@ fetch('data.json')
         '<p>Failed to load events. Please try again later.</p>';
     }
   });
+
+//! Popup Card
+// document.addEventListener('DOMContentLoaded', () => {
+//   const eventsContainer = document.querySelector('.events-container');
+
+//   if (!eventsContainer) return;
+
+//   eventsContainer.addEventListener('click', (e) => {
+//     const card = e.target.closest('.card');
+//     if (!card) return;
+
+//     /// Clone the card and add popup styles
+//     const popupCard = card.cloneNode(true);
+//     popupCard.classList.add('popup-card');
+//     popupCard.style.position = 'fixed';
+//     popupCard.style.top = '50%';
+//     popupCard.style.left = '50%';
+//     popupCard.style.transform = 'translate(-50%, -50%)';
+//     popupCard.style.zIndex = '9999';
+//     popupCard.style.width = '80vw';
+//     popupCard.style.maxWidth = '600px';
+//     popupCard.style.padding = '2rem';
+
+//     /// Add a close button
+//     const closeButton = document.createElement('button');
+//     closeButton.textContent = 'Close';
+//     closeButton.style.display = 'block';
+//     closeButton.style.marginTop = '20px';
+//     closeButton.style.background = '#fff';
+//     closeButton.style.border = 'none';
+//     closeButton.style.padding = '0.5rem 1rem';
+//     closeButton.style.cursor = 'pointer';
+//     closeButton.style.borderRadius = '5px';
+//     closeButton.style.width = '100%';
+//     closeButton.style.textAlign = 'center';
+
+//     closeButton.addEventListener('click', () => {
+//       /// Enable scrolling when closing the popup
+//       document.removeEventListener('wheel', preventScroll);
+//       document.removeEventListener('touchmove', preventScroll);
+//       document.removeEventListener('keydown', preventScroll);
+//       popupCard.remove();
+//     });
+
+//     /// Function to prevent scrolling
+//     const preventScroll = (e) => {
+//       e.preventDefault();
+//     };
+
+//     /// Disable scrolling by preventing wheel, touchmove, and keydown events
+//     document.addEventListener('wheel', preventScroll, { passive: false });
+//     document.addEventListener('touchmove', preventScroll, { passive: false });
+//     document.addEventListener('keydown', preventScroll, { passive: false });
+
+//     popupCard.appendChild(closeButton);
+//     document.body.appendChild(popupCard);
+//   });
+// });
+
+document.addEventListener('DOMContentLoaded', () => {
+  const eventsContainer = document.querySelector('.events-container');
+
+  if (!eventsContainer) return;
+
+  eventsContainer.addEventListener('click', (e) => {
+    const card = e.target.closest('.card');
+    if (!card) return;
+
+    // Clone the card and add popup styles
+    const popupCard = card.cloneNode(true);
+    popupCard.classList.add('popup-card');
+
+    // Add a close button
+    const closeButton = document.createElement('button');
+    closeButton.textContent = 'Close';
+
+    closeButton.addEventListener('click', () => {
+      // Enable scrolling when closing the popup
+      document.removeEventListener('wheel', preventScroll);
+      document.removeEventListener('touchmove', preventScroll);
+      document.removeEventListener('keydown', preventScroll);
+      popupCard.remove();
+    });
+
+    // Function to prevent scrolling
+    const preventScroll = (e) => {
+      e.preventDefault();
+    };
+
+    // Disable scrolling by preventing wheel, touchmove, and keydown events
+    document.addEventListener('wheel', preventScroll, { passive: false });
+    document.addEventListener('touchmove', preventScroll, { passive: false });
+    document.addEventListener('keydown', preventScroll, { passive: false });
+
+    popupCard.appendChild(closeButton);
+    document.body.appendChild(popupCard);
+  });
+});
