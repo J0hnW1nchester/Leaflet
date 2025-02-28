@@ -1,3 +1,4 @@
+// ! ..........................Data fetching and displaying....................
 fetch('data.json')
   .then((response) => {
     if (!response.ok) {
@@ -76,64 +77,7 @@ fetch('data.json')
     }
   });
 
-//! Popup Card
-// document.addEventListener('DOMContentLoaded', () => {
-//   const eventsContainer = document.querySelector('.events-container');
-
-//   if (!eventsContainer) return;
-
-//   eventsContainer.addEventListener('click', (e) => {
-//     const card = e.target.closest('.card');
-//     if (!card) return;
-
-//     /// Clone the card and add popup styles
-//     const popupCard = card.cloneNode(true);
-//     popupCard.classList.add('popup-card');
-//     popupCard.style.position = 'fixed';
-//     popupCard.style.top = '50%';
-//     popupCard.style.left = '50%';
-//     popupCard.style.transform = 'translate(-50%, -50%)';
-//     popupCard.style.zIndex = '9999';
-//     popupCard.style.width = '80vw';
-//     popupCard.style.maxWidth = '600px';
-//     popupCard.style.padding = '2rem';
-
-//     /// Add a close button
-//     const closeButton = document.createElement('button');
-//     closeButton.textContent = 'Close';
-//     closeButton.style.display = 'block';
-//     closeButton.style.marginTop = '20px';
-//     closeButton.style.background = '#fff';
-//     closeButton.style.border = 'none';
-//     closeButton.style.padding = '0.5rem 1rem';
-//     closeButton.style.cursor = 'pointer';
-//     closeButton.style.borderRadius = '5px';
-//     closeButton.style.width = '100%';
-//     closeButton.style.textAlign = 'center';
-
-//     closeButton.addEventListener('click', () => {
-//       /// Enable scrolling when closing the popup
-//       document.removeEventListener('wheel', preventScroll);
-//       document.removeEventListener('touchmove', preventScroll);
-//       document.removeEventListener('keydown', preventScroll);
-//       popupCard.remove();
-//     });
-
-//     /// Function to prevent scrolling
-//     const preventScroll = (e) => {
-//       e.preventDefault();
-//     };
-
-//     /// Disable scrolling by preventing wheel, touchmove, and keydown events
-//     document.addEventListener('wheel', preventScroll, { passive: false });
-//     document.addEventListener('touchmove', preventScroll, { passive: false });
-//     document.addEventListener('keydown', preventScroll, { passive: false });
-
-//     popupCard.appendChild(closeButton);
-//     document.body.appendChild(popupCard);
-//   });
-// });
-
+//! ..........................Popup Card....................
 document.addEventListener('DOMContentLoaded', () => {
   const eventsContainer = document.querySelector('.events-container');
 
@@ -143,33 +87,61 @@ document.addEventListener('DOMContentLoaded', () => {
     const card = e.target.closest('.card');
     if (!card) return;
 
-    // Clone the card and add popup styles
+    /// Create a wrapper that will cover the whole document
+    const overlay = document.createElement('div');
+    overlay.classList.add('popup-card-overlay');
+    document.body.appendChild(overlay);
+
+    /// Clone the card and add popup styles
     const popupCard = card.cloneNode(true);
     popupCard.classList.add('popup-card');
 
-    // Add a close button
+    /// Ensure the popup card itself is clickable
+    popupCard.style.pointerEvents = 'auto';
+
+    /// Add a close button
     const closeButton = document.createElement('button');
     closeButton.textContent = 'Close';
 
     closeButton.addEventListener('click', () => {
-      // Enable scrolling when closing the popup
+      /// Enable scrolling when closing the popup
       document.removeEventListener('wheel', preventScroll);
       document.removeEventListener('touchmove', preventScroll);
       document.removeEventListener('keydown', preventScroll);
+
+      /// Remove the overlay and popup card
+      overlay.remove();
       popupCard.remove();
+
+      /// Reset pointer events on body so the page can be interacted with again
+      document.body.style.pointerEvents = 'auto';
     });
 
-    // Function to prevent scrolling
+    /// Function to prevent scrolling
     const preventScroll = (e) => {
       e.preventDefault();
     };
 
-    // Disable scrolling by preventing wheel, touchmove, and keydown events
+    /// Disable scrolling by preventing wheel, touchmove, and keydown events
     document.addEventListener('wheel', preventScroll, { passive: false });
     document.addEventListener('touchmove', preventScroll, { passive: false });
     document.addEventListener('keydown', preventScroll, { passive: false });
 
     popupCard.appendChild(closeButton);
     document.body.appendChild(popupCard);
+
+    /// Disable pointer events on the rest of the page (outside of the popup)
+    overlay.style.pointerEvents = 'all';
+
+    /// Add pointer-events: none to the rest of the page
+    document.body.style.pointerEvents = 'none';
+
+    /// Allow interaction within the popup
+    popupCard.addEventListener('click', (e) => {
+      e.stopPropagation(); /// Prevent the click event from bubbling up to the overlay
+    });
+
+    /// Allow interaction within the popup by setting pointer-events to 'auto'
+    popupCard.style.pointerEvents = 'auto';
   });
 });

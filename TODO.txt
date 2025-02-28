@@ -6,7 +6,7 @@ breakpoints in privacy policy
 
 ........................................
 
-press on card  - bigger card
+make the popup card transition smoother
 
 ........................................
 

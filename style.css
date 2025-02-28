@@ -95,6 +95,11 @@ img {
   transition: filter 0.3s ease-in-out;
 }
 
+body.popup-open {
+  filter: blur(5px);
+  transition: filter 0.3s ease-in-out;
+}
+
 /* ! Background video */
 #bg-video {
   position: fixed;
@@ -119,6 +124,17 @@ img {
   height: 100svh;
   background: #0393d6;
   mix-blend-mode: overlay;
+}
+
+.popup-card-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 8999;
+  pointer-events: all;
+  backdrop-filter: blur(10px);
 }
 
 /* ! Hamburger Menu */
@@ -215,9 +231,10 @@ body.menu-open {
   padding: 1rem;
   backdrop-filter: blur(24px);
   background: rgba(255, 255, 255, 0.2);
-  border: 1px solid rgba(255, 255, 255, 0.5);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 7px;
+  pointer-events: auto;
 
   h3 {
     font-size: 1rem;
