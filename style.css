@@ -220,8 +220,8 @@ body.menu-open {
   position: fixed;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
   z-index: 9999;
+  z-index: 10001;
   width: 80vw;
   max-width: 600px;
   overflow: hidden;
@@ -235,6 +235,21 @@ body.menu-open {
   border: 1px solid rgba(255, 255, 255, 0.5);
   border-radius: 7px;
   pointer-events: auto;
+  overflow-y: auto;
+  opacity: 0;
+  transition: transform 0.3s ease-out, opacity 0.3s ease-out;
+  transform: translate(-50%, -50%) scale(0);
+
+  &.show {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+
+  &.fadeOut {
+    transform: translate(-50%, -50%) scale(0);
+    opacity: 0;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+  }
 
   h3 {
     font-size: 1rem;
@@ -264,7 +279,6 @@ body.menu-open {
     font-size: 0.8rem;
     margin-top: 5px;
     margin-bottom: 5px;
-    color: #222;
 
     a {
       color: #fff;
@@ -289,7 +303,11 @@ body.menu-open {
     background: rgba(255, 255, 255, 0.2);
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 7px;
+    resize: none;
 
+    p {
+      color: #222;
+    }
   }
 
   button {
@@ -335,7 +353,6 @@ body.menu-open {
         align-items: center;
         color: #fff;
         transition: 0.5s;
-        /* z-index: 2; */
         text-align: center;
 
         &.active {
@@ -564,8 +581,26 @@ body.menu-open {
           border: 1px solid rgba(255, 255, 255, 0.5);
           border-radius: 7px;
 
+          /* * City filter buttons */
           button {
+            padding: 5px 10px;
+            text-transform: uppercase;
+            color: #fff;
+            letter-spacing: 2px;
+            transition: 0.2s;
+            backdrop-filter: blur(24px);
+            background: rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.5);
+            border-radius: 7px;
             cursor: pointer;
+
+            &:hover {
+              letter-spacing: 6px;
+            }
+
+            &.hover-effect:hover {
+              letter-spacing: 6px;
+            }
           }
         }
       }
