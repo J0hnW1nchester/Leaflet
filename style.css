@@ -298,12 +298,17 @@ body.menu-open {
     padding: 10px;
     overflow: auto;
     overflow-x: hidden;
-    /* overflow-y: auto; */
     backdrop-filter: blur(24px);
     background: rgba(255, 255, 255, 0.2);
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 7px;
     resize: none;
+    /* overflow-y: scroll; */
+    scrollbar-width: none; /* For Firefox */
+
+    &::-webkit-scrollbar {
+      display: none; /* For Chrome and Safari */
+    }
 
     p {
       color: #222;
