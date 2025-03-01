@@ -6,7 +6,7 @@ breakpoints in privacy policy
 
 ........................................
 
-make the popup card transition smoother
+make the popup card transition smoother, add event description
 
 ........................................
 
