@@ -200,6 +200,13 @@ function renderEvents(events) {
   setTimeout(() => {
     eventsContainer.innerHTML = ''; // Clear the old content
 
+    // Sort the events by their start time (latest events first)
+    events.sort((a, b) => {
+      const timeA = new Date(a.node.time_start).getTime();
+      const timeB = new Date(b.node.time_start).getTime();
+      return timeB - timeA; // Latest first
+    });
+
     // Add the new events with fade-in animation
     events.forEach((event) => {
       const eventData = event?.node;
@@ -228,7 +235,10 @@ function renderEvents(events) {
 
       const card = document.createElement('article');
       card.classList.add('card');
-      card.setAttribute('data-description', encodeURIComponent(eventData.description || 'No description available'));
+      card.setAttribute(
+        'data-description',
+        encodeURIComponent(eventData.description || 'No description available')
+      );
       card.setAttribute('data-url', eventData.url || '#');
       card.innerHTML = `
         <h3>${eventName}</h3>
