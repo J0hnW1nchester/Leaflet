@@ -116,3 +116,21 @@ window.addEventListener('scroll', () => {
     background.classList.remove('blur');
   }
 });
+
+// ! Leaflet logo disappearance/appearance
+
+const toggleButton = document.querySelector('.toggle');
+const homeSection = document.querySelector('#home-section');
+const leafletLogo = document.querySelector('#leaflet-logo');
+
+toggleButton.addEventListener('click', () => {
+  homeSection.classList.toggle('toggled');
+  
+  if (homeSection.classList.contains('toggled')) {
+    leafletLogo.style.opacity = '0'; /// Hide logo
+    leafletLogo.style.pointerEvents = 'none'; /// Disable interactions (optional)
+  } else {
+    leafletLogo.style.opacity = '1'; /// Show logo
+    leafletLogo.style.pointerEvents = 'auto';
+  }
+});

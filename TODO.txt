@@ -6,8 +6,4 @@ breakpoints in privacy policy
 
 ........................................
 
-make the popup card transition smoother, add event description
-
-........................................
-
-keep updating the sticky header buttons and functionality
+sticky header button animation bug fix

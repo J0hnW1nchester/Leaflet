@@ -416,6 +416,8 @@ body.menu-open {
             align-items: center;
             text-align: left;
             cursor: pointer;
+            /* ................... */
+            transition: opacity 0.3s ease;
 
             #leaflet-logo-img {
               width: auto;
