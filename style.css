@@ -12,6 +12,7 @@
   --tech-color: #009cff;
 }
 
+/* * Pulsating down arrow */
 @keyframes pulse {
   0% {
     transform: scale(1);
@@ -21,6 +22,25 @@
   }
   100% {
     transform: scale(1);
+  }
+}
+
+/* * Event filtering animations */
+@keyframes fadeOut {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
   }
 }
 
@@ -332,6 +352,19 @@ body.menu-open {
   }
 }
 
+/* ! Event filtering animations*/
+.card.fade-out {
+  animation: fadeOut 0.5s forwards;
+}
+
+.card.fade-in {
+  animation: fadeIn 0.5s forwards;
+}
+
+.card.show {
+  animation: fadeIn 0.5s ease-out;
+}
+
 /* / MOBILE 360px | MAIN STYLING  */
 @media only screen and (min-width: 0px) {
   /* ! Main container */
@@ -571,7 +604,7 @@ body.menu-open {
           position: fixed;
           bottom: 0;
           height: 50px;
-          width: 90vw;
+          width: 100vw;
           max-width: 1300px;
           display: flex;
           justify-content: space-evenly;
@@ -598,6 +631,7 @@ body.menu-open {
             border: 1px solid rgba(255, 255, 255, 0.5);
             border-radius: 7px;
             cursor: pointer;
+            font-size: 0.6rem;
 
             &:hover {
               letter-spacing: 6px;
@@ -889,6 +923,12 @@ body.menu-open {
 
         .home-footer {
           font-size: 1rem;
+        }
+
+        .sticky-header {
+          button {
+            font-size: 1rem;
+          }
         }
       }
     }
