@@ -118,7 +118,6 @@ window.addEventListener('scroll', () => {
 });
 
 // ! Leaflet logo disappearance/appearance
-
 const toggleButton = document.querySelector('.toggle');
 const homeSection = document.querySelector('#home-section');
 const leafletLogo = document.querySelector('#leaflet-logo');

@@ -1,7 +1,3 @@
-Probably removing event.html
-
-.........................................
-
 breakpoints in privacy policy
 
 ........................................
