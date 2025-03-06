@@ -1,5 +1,0 @@
-breakpoints in privacy policy
-
-........................................
-
-sticky header button animation bug fix

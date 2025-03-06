@@ -293,6 +293,7 @@ body.menu-open {
     }
   }
 
+  /* * More info */
   p {
     display: flex;
     align-items: center;
@@ -323,7 +324,6 @@ body.menu-open {
     border: 1px solid rgba(255, 255, 255, 0.5);
     border-radius: 7px;
     resize: none;
-    /* overflow-y: scroll; */
     scrollbar-width: none; /* For Firefox */
 
     &::-webkit-scrollbar {
@@ -335,6 +335,7 @@ body.menu-open {
     }
   }
 
+  /* * Close button */
   button {
     display: block;
     margin-top: 20px;
@@ -351,19 +352,6 @@ body.menu-open {
     }
   }
 }
-
-/* ! Event filtering animations*/
-/* .card.fade-out {
-  animation: fadeOut 0.5s forwards;
-} */
-
-/* .card.fade-in {
-  animation: fadeIn 0.5s forwards;
-} */
-
-/* .card.show {
-  animation: fadeIn 0.5s ease-out;
-} */
 
 /* / MOBILE 360px | MAIN STYLING  */
 @media only screen and (min-width: 0px) {
@@ -574,10 +562,10 @@ body.menu-open {
                 display: inline-block;
                 filter: invert(1);
                 transform: scale(0.5);
-                transition: 0.5s;
+                transition: transform 0.2s ease-out;
 
-                &:hover {
-                  transform: scale(0.5) translateY(-15px);
+                &:active {
+                  transform: scale(0.9);
                 }
               }
 
@@ -632,13 +620,10 @@ body.menu-open {
             border-radius: 7px;
             cursor: pointer;
             font-size: 0.6rem;
+            transition: transform 0.2s ease-out;
 
             &:active {
               transform: scale(0.9);
-            }
-
-            &:focus {
-              transform: scale(1);
             }
           }
         }
@@ -738,7 +723,6 @@ body.menu-open {
     /* ! Privacy-policy page styling */
     &.privacy-policy-page {
       height: 100svh;
-      /* background: #222; */
 
       .privacy-policy-container {
         margin-top: 150px;
@@ -754,6 +738,7 @@ body.menu-open {
         .privacy-policy-text {
           min-width: 60vw;
           padding: 0px;
+          text-align: left;
         }
       }
     }
@@ -770,7 +755,6 @@ body.menu-open {
           margin: 20px 0;
           max-width: 60vw;
           text-align: left;
-          /* text-align: center; */
 
           li {
             margin: 15px 0;
