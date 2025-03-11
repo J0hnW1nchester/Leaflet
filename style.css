@@ -64,40 +64,6 @@ img {
   transition: 0.3s;
 }
 
-.category {
-  display: inline-block;
-  color: #fff;
-  font-size: 0.55rem;
-  text-transform: uppercase;
-  padding: 0.4rem 0.6rem;
-  border-radius: 15px;
-  margin-bottom: 0.5rem;
-}
-
-.category-sports {
-  background: var(--sports-color);
-
-  & + h3 > .event-link:hover {
-    color: var(--sports-color);
-  }
-}
-
-.category-ent {
-  background: var(--ent-color);
-
-  & + h3 > .event-link:hover {
-    color: var(--ent-color);
-  }
-}
-
-.category-tech {
-  background: var(--tech-color);
-
-  & + h3 > .event-link:hover {
-    color: var(--tech-color);
-  }
-}
-
 .dark-background {
   background: #222;
 }
