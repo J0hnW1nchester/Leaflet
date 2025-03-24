@@ -1,0 +1,1278 @@
+{
+  "data": {
+    "events": {
+      "edges": [
+        {
+          "node": {
+            "id": "6505258c-21f1-4f6b-a716-aaf7da0470d4",
+            "ev_id": "23533ef1574b1bda669143e23d362af99730a8eb",
+            "ev_from": "lippu.fi",
+            "url": "https://www.lippu.fi/event/karelian-hurmos-kausikortti-joensuun-urheilutalo-19102195/",
+            "name": "Karelian Hurmos - kausikortti",
+            "creator": "",
+            "description": "Karelian Hurmos runkosarjan kausikortti kaudelle 2024-2025",
+            "img": "https://www.lippu.fi/obj/media/FI-eventim/teaser/222x222/2024/karelian_hurmos_222.jpg",
+            "time_start": "2024-09-28T21:00:00Z",
+            "time_end": "2025-03-19T21:55:00Z",
+            "tickets_url": "https://www.lippu.fi/event/karelian-hurmos-kausikortti-joensuun-urheilutalo-19102195/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Action"
+            ],
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Urheilutalo",
+              "address": "Koskikatu 12, Joensuu, Finland",
+              "city": "Joensuu",
+              "country": "Finland"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "beb08480-78bf-4e40-9ab6-a8c9158c42ba",
+            "ev_id": "3d29b4effc34e7cfc4cabb69478cd2d0cd7ce287",
+            "ev_from": "oeticket.com",
+            "url": "https://www.oeticket.com/event/ubi-holding-graz-ubi-graz-heimspiele-raiffeisen-sportpark-17492613/",
+            "name": "UBI Holding Graz - Saisonkarte 2024/2025",
+            "creator": "",
+            "description": "",
+            "img": "",
+            "time_start": "2024-09-30T21:00:00Z",
+            "time_end": "2025-03-30T20:59:00Z",
+            "tickets_url": "https://www.oeticket.com/event/ubi-holding-graz-ubi-graz-heimspiele-raiffeisen-sportpark-17492613/",
+            "tickets_price": 12.5,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Action"
+            ],
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Raiffeisen Sportpark Graz",
+              "address": "Hüttenbrennergasse 31 (Eingang, Schönaugasse, Graz, Austria",
+              "city": "Graz",
+              "country": "Austria"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "5998723f-da86-403e-bc74-b3cfc323d65b",
+            "ev_id": "87bd8748b168708977faa04cc1fd7f6923dd31b5",
+            "ev_from": "eventim.de",
+            "url": "https://www.eventim.de/event/ubi-holding-graz-heimspiele-202426-raiffeisen-sportpark-17492738/",
+            "name": "UBI Holding Graz - Saisonkarte 2023/2024",
+            "creator": "",
+            "description": "",
+            "img": "",
+            "time_start": "2024-09-30T21:00:00Z",
+            "time_end": "2025-03-30T20:59:00Z",
+            "tickets_url": "https://www.eventim.de/event/ubi-holding-graz-heimspiele-202426-raiffeisen-sportpark-17492738/",
+            "tickets_price": 12.5,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Action"
+            ],
+            "updated": "2024-12-13T22:00:00Z",
+            "location": {
+              "name": "Raiffeisen Sportpark Graz",
+              "address": "Hüttenbrennergasse 31 (Eingang, Schönaugasse, Graz, Austria",
+              "city": "Graz",
+              "country": "Austria"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "b6a6fd96-42b3-4c1f-9afd-baf334258a1b",
+            "ev_id": "c49bd320257d7cdb66887fad20e5583cd0bb729e",
+            "ev_from": "oeticket.com",
+            "url": "https://www.oeticket.com/event/ubi-holding-graz-ubi-graz-heimspiele-raiffeisen-sportpark-17492958/",
+            "name": "Ubi Graz - Superabo 2024/2025",
+            "creator": "",
+            "description": "",
+            "img": "",
+            "time_start": "2024-09-30T21:00:00Z",
+            "time_end": "2025-03-30T20:59:00Z",
+            "tickets_url": "https://www.oeticket.com/event/ubi-holding-graz-ubi-graz-heimspiele-raiffeisen-sportpark-17492958/",
+            "tickets_price": 154,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Action"
+            ],
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Raiffeisen Sportpark Graz",
+              "address": "Hüttenbrennergasse 31 (Eingang, Schönaugasse, Graz, Austria",
+              "city": "Graz",
+              "country": "Austria"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "6ff2d5ec-2600-477b-a893-0316b6de71cf",
+            "ev_id": "b563270f4dd732f08105e7452b555078313e999e",
+            "ev_from": "entradas.com",
+            "url": "https://www.entradas.com/event/harry-potter-the-exhibition-espacio-ibercaja-delicias-19059129/",
+            "name": "Harry Potter™: The Exhibition - VIP/Flexible",
+            "creator": "",
+            "description": "",
+            "img": "https://www.entradas.com/obj/media/ES-eventim/teaser/222x222/2024-222x222/Harry_Potter_Exhibition_Madrid_222x222.jpg",
+            "time_start": "2024-10-04T05:00:00Z",
+            "time_end": "2025-03-16T21:01:00Z",
+            "tickets_url": "https://www.entradas.com/event/harry-potter-the-exhibition-espacio-ibercaja-delicias-19059129/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Culture"
+            ],
+            "updated": "2025-02-24T12:59:35Z",
+            "location": {
+              "name": "Espacio Ibercaja Delicias",
+              "address": "Paseo de las Delicias, Arganzuela, Madrid, Spain",
+              "city": "Madrid",
+              "country": "Spain"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "7f16535f-75c0-4518-8298-080dcce27e3b",
+            "ev_id": "51435dd677e75e8a00914c32184d28e918ffa4fd",
+            "ev_from": "radaras.app",
+            "url": "https://www.vilnius-events.lt/renginiai/isvykstu-mstislavo-dobuzinskio-kelioniu-vadovas/",
+            "name": "Išvykstu! Mstislavo Dobužinskio kelionių vadovas",
+            "creator": "Lietuvos teatro, muzikos ir kino muziejus",
+            "description": "Lietuvos teatro, muzikos ir kino muziejus kviečia į parodą „Išvykstu! Mstislavo Dobužinskio kelionių vadovas“. Birželį atskleidę menininko klajonių po Italiją įspūdžius, parodos organizatoriai kviečia pažinti kitas M. Dobužinskio kelių kryptis. Tai – Vokietija, Prancūzija, žinoma, Lietuva bei fantazijų pasaulis.\n\nParoda sudaryta iš Lietuvos teatro, muzikos ir kino muziejuje saugomo Dobužinskio darbų rinkinio. Šiame – daugiau nei tūkstantis vienetų. Tai – didžiausia šio dailininko teatro dailės kūrinių kolekcija Lietuvoje. 2009 m. ši kūrinių kolekcija įtraukta į UNESCO programos „Pasaulio atmintis“ Lietuvos nacionalinį registrą. Joje sukaupti reikšmingiausi ir brandžiausi Lietuvos teatrui sukurti dailininko darbai.\n\nParodą sudaro net 7 dalys, bet kelionė neprailgs. Paroda parengta pagal M. Dobužinskio kelionių dienoraščius. Įsijausti į kelionių temą ir skirtingas šalis leis ne tik scenografijos eskizai, bet ir įvairiomis priemonėmis kuriama atmosfera. Visose salėse, užsidėję ausines, išgirsite autentiškus įgarsintus M. Dobužinskio atsiminimus. Įkomponuoti suoleliai leis pasijusti lyg traukinių stotyje ir prisėsti poilsio akimirkai, nestigs ir charakteringų traukinių stoties garsų\n\nParodoje gausu veiklų vaikams. Šeimų lauks lagaminai, kurie padės su M. Dobužinskio asmenybe ir kūryba susipažinti dar artimiau. Lagaminuose atrasite įdomias, įtraukiančias užduotis: skaičiuosite pilis kūriniuose, statysite savas pilis, dėliosite spektaklių kostiumus, kursite savus, ieškosite personažų vardų, kursite giminės medžius ir išrasite fantastinius padarus.\nMstislavas Dobužinskis (1875–1957) – senos lietuvių bajorų Januškevičių-Dobužinskių giminės palikuonis. Jis buvo tapytojas, grafikas, teatro ir kino dailininkas, knygų iliustruotojas, urbanistinio peizažo puoselėtojas, portretistas, porceliano dirbinių dekoruotojas, memuarų autorius. Taip pat draugijos „Meno pasaulis“ (Mir iskusstva) narys, pedagogas, dailės kritikas, juokaudamas save vadinęs klajojančiu entuziastu.\n\nLietuvoje jis geriausiai žinomas kaip vienas ryškiausių ir aktyviausių XX a. pradžioje profesionaliame Lietuvos teatre dirbusių dailininkų. Dobužinskis sukūrė scenografiją 38-iems Kauno Valstybės teatro spektakliams. Yra apipavidalinęs Peterburgo, Maskvos, Paryžiaus, Londono, Romos, Neapolio, Briuselio, o vėliau ir Niujorko teatrų pastatymus.\n\nVaikystėje M. Dobužinskio kelionės kryptį dažniausiai nulemdavo tėvo tarnyba, dėl kurios nuolat teko keisti gyvenamą vietą, vėliau – mokslai, darbas, kūryba. Ir visais atvejais – nuolatinis noras pažinti, stebėti, fiksuoti, kurti, kaupti žinias ir patirtis. Nuo XX a. 3-iojo deš. rašytuose prisiminimuose dailininkas daug dėmesio skyrė kelionėms – nuo išvykų pas senelius į Naugardą iki pirmųjų savarankiškų kelionių į Vokietiją, Prancūziją, Italiją ir Lietuvą.\n\nParodos kūrybinė komanda: kuratorė – Živilė Ambrasaitė-Gailiešienė, architektė – Ieva Šimkonytė, dizainerė – Ona Vėliūtė, techniniai sprendimai – Audrius Janulevičius, projekto vadovė – Aušra Endriukaitienė.\n\nParodos partneriai: Lietuvos nacionalinis operos ir baleto teatras (LNOBT), Nacionalinis Mikalojaus Konstantino Čiurlionio dailės muziejus, Lietuvos literatūros ir meno archyvas, Geležinkelių muziejus, Lietuvos nacionalinė Martyno Mažvydo biblioteka, Maironio lietuvių literatūros muziejus.",
+            "img": "https://storage.googleapis.com/dmthumbs/vln5ce63370e516e3198f6680f7c76a847b.jpg",
+            "time_start": "2024-10-09T21:00:00Z",
+            "time_end": "2025-03-30T21:00:00Z",
+            "tickets_url": "https://www.vilnius-events.lt/renginiai/isvykstu-mstislavo-dobuzinskio-kelioniu-vadovas/",
+            "tickets_price": 5,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:00:35Z",
+            "location": {
+              "name": "Lithuanian Theatre, Music and Cinema Museum",
+              "address": "Vilniaus g. 41, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "26470f48-07f9-48f4-8fcd-78a21dc0a0c4",
+            "ev_id": "cfb154789b42ca0427efbbb5173ae8590d901af1",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/hapticka-ozvena-priroda-telo-politika-v-umeni-byvalej-juhoslavie-a/szanyix/",
+            "name": "Haptická ozvena: Príroda, telo, politika v umení bývalej Juhoslávie a Československa",
+            "creator": "",
+            "description": "",
+            "img": "https://goout.net/i/131/1311921-383.jpg",
+            "time_start": "2024-10-10T09:00:01Z",
+            "time_end": "2025-03-16T21:59:00Z",
+            "tickets_url": "https://goout.net/en/hapticka-ozvena-priroda-telo-politika-v-umeni-byvalej-juhoslavie-a/szanyix/",
+            "tickets_price": 6,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Pálffy Palace",
+              "address": "Panská 19, Bratislava, Slovakia",
+              "city": "Bratislava",
+              "country": "Slovakia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "c75d23e8-ab20-4814-b45c-661d081d54a4",
+            "ev_id": "b75c3639f9ff0039dad0e1763e36a4f1db0994e7",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/vzdelavaci-program/szkwhjx/",
+            "name": "Vzdělávací program",
+            "creator": "",
+            "description": "This comprehensive set of lectures combines philosophy, history, psychology and social sciences to provide a comprehensive view of life and human existence. It will run once a week on Thursdays from 6:00 p.m. to 8:00 p.m. The total duration is 20 weeks.",
+            "img": "https://goout.net/i/130/1303547-383.jpg",
+            "time_start": "2024-10-17T15:00:00Z",
+            "time_end": "2025-02-27T18:00:00Z",
+            "tickets_url": "https://goout.net/en/vzdelavaci-program/szkwhjx/",
+            "tickets_price": 1700,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-01-01T22:02:42Z",
+            "location": {
+              "name": "Nová Akropolis Plzeň",
+              "address": "Purkyňova 592/12, Plzeň Předměstí, Czechia",
+              "city": "Pilsen",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "82149a5b-ffcf-4a43-9a35-84a1b0e10875",
+            "ev_id": "0fa386cf02f88363627bfed28eaf546f73e2fe29",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/vlastislav-hofman-rytmus-kompozice-interier-and-design-kubismu/szkrslx/",
+            "name": "Vlastislav Hofman: Rytmus kompozice – interiér & design kubismu",
+            "creator": "",
+            "description": "",
+            "img": "https://goout.net/i/131/1313288-383.jpg",
+            "time_start": "2024-10-18T09:00:01Z",
+            "time_end": "2025-03-30T20:59:00Z",
+            "tickets_url": "https://goout.net/en/vlastislav-hofman-rytmus-kompozice-interier-and-design-kubismu/szkrslx/",
+            "tickets_price": 40,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "The House at the Black Madonna",
+              "address": "Ovocný trh 569/19, Staré Město, Czechia",
+              "city": "Prague 1",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "57d682ee-6483-40f4-bb2d-322752d9cee5",
+            "ev_id": "de361f83c9037ca2b5df9df002c3ad736429e359",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/ice-magic-ledovy-park/szvoaqx/",
+            "name": "Ice Magic – Ledový park",
+            "creator": "",
+            "description": "*Ice Magic* in Prague is an annual winter event where ice sculptures are exhibited. Artists from all over the world create ice sculptures and visitors can walk among them. The whole event is usually accompanied by lighting effects that enhance the magic of the ice sculptures. This year there is also an ice bar and snowtubing.",
+            "img": "https://goout.net/i/132/1328477-383.jpg",
+            "time_start": "2024-10-25T09:00:01Z",
+            "time_end": "2025-03-16T21:59:00Z",
+            "tickets_url": "https://goout.net/en/ice-magic-ledovy-park/szvoaqx/",
+            "tickets_price": 150,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Polská 2400/1A",
+              "address": "Polská 2400/1A, Vinohrady, Czechia",
+              "city": "Vinohrady",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "55342f9b-75ce-4889-b100-6aecbee9272e",
+            "ev_id": "bef08475ef64e0801ca981ef903071575349ec27",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/actioncoach-auganciu-verslu-dirbtuves-1047",
+            "name": "ActionCOACH augančių verslų dirbtuvės",
+            "creator": "ActionCOACH Lithuania, UAB",
+            "description": "Ketvirčio pradžia – puikus laikas suplanuoti verslo augimą, sistematizavimą ir parinkti strategijas, kurias taikysime artimiausią ketvirtį. Todėl augti norintiems verslams ActionCOACH organizuoja specialų visos dienos praktinį seminarą.\n\nKas numatyta dirbtuvėse:\n\n\\- Turėsime edukacinį pranešimą ir pranešėją.  \n\\- Atlikinėsime užduotis ir keisimės įžvalgomis su kitais dalyviais.  \n\\- Mindaugas Juodaitis pasidalins ActionCOACH 6 žingsnių sistematizavimo metodika ir aptarsite jos taikymą savo versle.  \n\\- Kiekvienas verslas išsineš bent po keletą strategijų pelno auginimui iš 300+ patikrintų strategijų sąrašo.  \n\\- Visi dalyviai kartu pietaus ir keisis kontaktais.  \n\\- Popiet turėsime verslo planavimo dirbtuves –planuosime artimiausią ketvirtį.  \n\\- Naudosime 20+ metų patikrintą ActionCOACH planavimo metodiką ir įrankius.  \n\\- Prieš renginį dalyviai gaus papildomą metodinę medžiagą praktinėms užduotims.\n\nPanašūs mokymų, bendradarbiavimo ir atskaitingumo renginiai numatyti kiekvieną mėnesį. Jie yra nemokami ActionCOACH nariams ([kaip tapti ActionCOACH nariu?](https://www.ActionCOACH.lt/naryste?utm=paysera)).\n\nKaip tapti ActionCOACH bendruomenės nariu: [https://www.actioncoach.lt/naryste](https://www.actioncoach.lt/naryste?utm=paysera)\n",
+            "img": "https://tickets.paysera.com/public/images/be6c38e3-6600-11ef-8d2a-0050568dc731/actioncoach-auganciu-verslu-dirbtuves-1047_lt__1738580022.jpeg?5c3bf2805c1d1a38699cf0710768062b?v30",
+            "time_start": "2024-10-31T06:30:00Z",
+            "time_end": "2025-03-31T13:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/actioncoach-auganciu-verslu-dirbtuves-1047/buy",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2024-12-13T22:00:00Z",
+            "location": {
+              "name": "V. Krėvės pr. 26A",
+              "address": "V. Krėvės pr. 26A, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "f799ab68-cfbe-4a2c-9702-a70d60f4e9ac",
+            "ev_id": "d64e870e30d5cfd7383e8a3a1efce88301d8dc5b",
+            "ev_from": "eventim.fr",
+            "url": "https://www.eventim.fr/event/visite-guidee-du-chateau-de-versailles-agence-getyourguide-getyo-19191325/",
+            "name": "Visite Guidée du Château de Versailles - Basse saison",
+            "creator": "",
+            "description": "",
+            "img": "https://www.eventim.fr/obj/mam/france/58/a5/visite-guid-e-ch-teau-de-versailles-tickets_210853_1901381_222x222.jpg",
+            "time_start": "2024-10-31T22:00:00Z",
+            "time_end": "2025-03-31T20:59:00Z",
+            "tickets_url": "https://www.eventim.fr/event/visite-guidee-du-chateau-de-versailles-agence-getyourguide-getyo-19191325/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Culture"
+            ],
+            "updated": "2025-02-24T12:02:00Z",
+            "location": {
+              "name": "GetYourGuide France",
+              "address": "10 Av. du Général de Gaulle, 78000 Versailles, France",
+              "city": "Versailles",
+              "country": "France"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "33885107-2b19-4017-9e64-e2b8ffc24be1",
+            "ev_id": "bbed6767a98717494adbcac8e16dc134de976f11",
+            "ev_from": "eventim.fr",
+            "url": "https://www.eventim.fr/event/grand-palais-immersif-pixels-une-experience-interactive-avec-lunivers-creatif-de-lia-billet-open-grand-palais-immersif-19368700/",
+            "name": "Pixels - Billet Open",
+            "creator": "",
+            "description": "Exposition dédiée à Miguel Chevalier  - Grand Palais Immersif - Place de la Bastille",
+            "img": "https://www.eventim.fr/obj/mam/france/4a/1b/pixels---grand-palais-immersif-2-tickets_315618_2630626_222x222.jpg",
+            "time_start": "2024-11-04T22:00:00Z",
+            "time_end": "2025-04-06T20:59:00Z",
+            "tickets_url": "https://www.eventim.fr/event/grand-palais-immersif-pixels-une-experience-interactive-avec-lunivers-creatif-de-lia-billet-open-grand-palais-immersif-19368700/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Culture"
+            ],
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Grand Palais Immersif",
+              "address": "110 Rue de Lyon, 75012 Paris, France",
+              "city": "Paris",
+              "country": "France"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "ec405d80-f3c6-4000-b437-836e795cad5d",
+            "ev_id": "286bdc3f5623f839eca26c7a0f0f26c8bf07467a",
+            "ev_from": "radaras.app",
+            "url": "https://www.vilnius-events.lt/renginiai/jurgio-mikseviciaus-pasauliai/",
+            "name": "Jurgio Mikševičiaus pasauliai",
+            "creator": "Lietuvos nacionalinis dailės muziejus",
+            "description": "Tai pirmas tokios didelės apimties Australijoje kūrusio lietuvių menininko Jurgio Mikševičiaus (1923–2014) kūrybos pristatymas Lietuvoje. Šimtųjų dailininko gimimo metinių  proga Australijoje plačiai nuskambėjo jo kūrybinis fenomenas, surengta nemažai asmeninių parodų Luroje, Manlyje, Baterste. Siekdamas supažindinti Lietuvos meno visuomenę su šio unikalaus Australijos lietuvių menininko kūrybiniu palikimu, Lietuvos nacionalinis dailės muziejus pristato dailininko dukrų Carolynos Leigh ir Helenos Miksevicius suformuotą reprezentatyvią ir vertingą Lietuvai padovanotą kolekciją – 77 tapybos ir grafikos darbus bei dalį jo asmeninio archyvo. Ekspoziciją papildo 3 kūriniai iš Nacionalinio M. K. Čiurlionio dailės muziejaus rinkinių.",
+            "img": "https://storage.googleapis.com/dmthumbs/vln1171edc8f0329076aa524a083606a3ca.jpg",
+            "time_start": "2024-11-06T22:00:00Z",
+            "time_end": "2025-03-27T22:00:00Z",
+            "tickets_url": "https://www.vilnius-events.lt/renginiai/jurgio-mikseviciaus-pasauliai/",
+            "tickets_price": 5,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:02:26Z",
+            "location": {
+              "name": "Vytautas Kasiulis Art Museum",
+              "address": "A. Goštauto g. 1, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "811ee9b2-c677-4460-bb11-d33dc1e40995",
+            "ev_id": "5f45d0eedda21812c9f3d3d8ed3d2a48078c8fa7",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/ecole-de-paris-umelci-z-cech-a-mezivalecna-pariz/szxyhkx/",
+            "name": "École de Paris: Umělci z Čech a meziválečná Paříž",
+            "creator": "",
+            "description": "**The exhibition *École de Paris: Artists from Bohemia and Interwar Paris* is on view from 8 November 2024 to 2 March 2025 in the Wallenstein Riding School.**\n\nWhen one says \"Czech artists in interwar France\", the names František Kupka, Josef Šíma, Jindřich Štyrský and Toyen come to mind. If the same was said to an art-loving Parisian of the 1920s, the first names that came to mind were Georges Kars, Othon Coubine and François Zdenek or François Maurice Eberl. It was they who were able to establish themselves the most on the Parisian interwar art scene, their works appeared in prestigious galleries and on the pages of art magazines. They were part of a cosmopolitan group of artists based primarily in Montmartre and Montparnasse, known as the School of Paris.\n\nThe project will therefore attempt to map the position of Kars, Kubín and Eberl in the Parisian art movement and recall their participation in art salons and collective exhibitions. In addition to a number of hitherto unknown works by these three authors, which will form the core of the exhibition, it will also show paintings by Alén Diviš, Edita Hiršová and world-famous artists such as Amedeo Modigliani, Chaim Soutine, Jules Pascin, Fujita and Chan Orloff.",
+            "img": "https://goout.net/i/129/1294426-383.jpg",
+            "time_start": "2024-11-08T10:00:01Z",
+            "time_end": "2025-03-02T21:59:00Z",
+            "tickets_url": "https://goout.net/en/ecole-de-paris-umelci-z-cech-a-mezivalecna-pariz/szxyhkx/",
+            "tickets_price": 170,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "National Gallery Prague - Waldstein Riding School",
+              "address": "Valdštejnská 3, Malá Strana, Czechia",
+              "city": "Prague 1",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "f40d4d77-c1b3-4e45-a5ae-90ae5b056584",
+            "ev_id": "0e980bbfd1811e00d3210609f018fc3197977151",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/paolo-venini-and-his-furnace-venetian-glass-1934-1959/szbpekx/",
+            "name": "Paolo Venini and His Furnace: Venetian glass 1934–1959",
+            "creator": "",
+            "description": "The presentation of Venetian glass from 1934–1959 centres on the figure of Paolo Venini (1895–1959), founder and artistic director of the Murano firm Venini and the designer of works that his studio successfully produced and sold throughout Europe and further abroad. Venini’s works are complemented by a selection of objects designed by his colleagues, such as Tobia Scarpa, Charles Lin Tissot, Gio Ponti, Riccardo Licata, and Ken Scott. The UPM exhibition comprises more than a hundred items on loan from private collections.",
+            "img": "https://goout.net/i/130/1306434-383.jpg",
+            "time_start": "2024-11-14T10:00:01Z",
+            "time_end": "2025-03-02T21:59:00Z",
+            "tickets_url": "https://goout.net/en/paolo-venini-and-his-furnace-venetian-glass-1934-1959/szbpekx/",
+            "tickets_price": 0,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Museum of Decorative Arts in Prague",
+              "address": "17. listopadu 2, Josefov, Czechia",
+              "city": "Prague 1",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "d2d274b2-8354-4c93-96db-d7cf0f5e6360",
+            "ev_id": "5c7d71e8cd77036b09b2263b2941559437827fec",
+            "ev_from": "radaras.app",
+            "url": "https://www.vilnius-events.lt/renginiai/paroda-tai-kokia-gi-cia-klinika/",
+            "name": "Paroda „Tai kokia gi čia klinika?“",
+            "creator": "Vilniaus paveikslų galerija",
+            "description": "Parodoje „Tai kokia gi čia klinika?“ pasakojama apie dabartinės galerijos patalpose XIX a. pabaigoje veikusias Vilniaus universiteto Terapijos, Chirurgijos ir Akušerijos klinikas. Lankytojai susipažins su pacientų ligų istorijomis, išvys to meto medicinos diagnostikos instrumentus, klinikose dirbusių medicinos daktarų mokslo darbus, garsiausių XIX a. Vilniaus gydytojų portretus, anatominius piešinius ir kaltūną – anuomet laikytą nepagydoma liga. Parodą lydės Andriaus Sniadeckio skaitymai, viešos paskaitos, edukaciniai užsiėmimai.",
+            "img": "https://storage.googleapis.com/dmthumbs/vln10f416c895ecae3cd0e342ce1cabcdeb.jpg",
+            "time_start": "2024-11-18T22:00:00Z",
+            "time_end": "2025-03-15T22:00:00Z",
+            "tickets_url": "https://www.vilnius-events.lt/renginiai/paroda-tai-kokia-gi-cia-klinika/",
+            "tickets_price": 6,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:02:28Z",
+            "location": {
+              "name": "Vilnius Picture Gallery",
+              "address": "Didžioji g. 4, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "88336abd-68d3-4729-b7d2-ab6d915086d7",
+            "ev_id": "e0cc8f5f96ea1ec837dbaec6e7804776d7278051",
+            "ev_from": "radaras.app",
+            "url": "https://kultura.kaunas.lt/renginys/paroda-apie-architekta-prof-dr-vytauta-bujauska/15103?prev=all",
+            "name": "Paroda apie architektą prof. dr. Vytautą Bujauską",
+            "creator": "Kauno regioninis valstybės archyvas",
+            "description": "Kauno regioninis valstybės archyvas kviečia apsilankyti parodoje „Nauji dokumentai archyve – architektas prof. dr. Vytautas Bujauskas (1922–1998)“!\n\nParodoje demonstruojami prof. dr. Vytauto Bujausko disertacijos „Miesto centro rekonstrukcijos architektūriniai-planiniai klausimai (Kauno pavyzdžiu)“ rengimo dokumentai, disertacijoje naudota vaizdinė Kauno miesto planų ir statinių medžiaga, ekspedicijų metu užfiksuotų Lietuvos miestų ir vietovių fotografijos, V. Bujausko parengti projektai ir statinių nuotraukos, šeimos albumų fotografijos. Šiuos dokumentus archyvui saugoti perdavė profesoriaus dukra Rūta Antanaitienė.\n\nArchitektas V. Bujauskas per savo karjerą parengė 35 visuomeninių namų bei daugiau nei 100 gyvenamųjų namų projektų. 1950 m. baigęs architektūros studijas, jis pradėjo dėstyti Kauno politechnikos institute. 1959–1962 m. ėjo atsakingas vyriausiojo Kauno miesto architekto pareigas. 1968 m. apsigynė disertaciją architektūros srityje ir įgijo humanitarinių mokslų daktaro laipsnį. 1971 m. buvo pakviestas dirbti Valstybinio dailės instituto Kauno vakarinio skyriaus Interjero ir įrenginių katedroje, o 1982 m. tapo šios katedros profesoriumi. 1983–1987 m. ėjo Pramoninės dailės fakulteto dekano pareigas, o 1987 m. buvo paskirtas Gamybinės aplinkos katedros profesoriumi.  Savo profesinę veiklą architektas baigė 1993 m.\n\nParodos vieta – Kauno regioninio valstybės archyvo parodų salė, Maironio g. 28B, Kaunas. Parodoje galima apsilankyti darbo dienomis (I-IV 08:00-17:00, V 08:00-15:45). Paroda veiks nuo 2024 m. lapkričio 19 d. iki 2025 m. kovo 31 d.\n\nLauksime jūsų parodoje!",
+            "img": "https://storage.googleapis.com/dmthumbs/kk15103.jpg",
+            "time_start": "2024-11-19T06:00:00Z",
+            "time_end": "2025-03-31T14:00:00Z",
+            "tickets_url": "https://kultura.kaunas.lt/renginys/paroda-apie-architekta-prof-dr-vytauta-bujauska/15103?prev=all",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-26T19:29:55Z",
+            "location": {
+              "name": "Kauno regioninis valstybės archyvas",
+              "address": "Maironio g. 28B, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "6747e43a-e341-49eb-8d90-81bbcb80cefb",
+            "ev_id": "6c0eed41931d17d40390c90b48510d4703f9f1c8",
+            "ev_from": "radaras.app",
+            "url": "https://kultura.kaunas.lt/renginys/parodos-apie-architekta-prof-dr-vytautas-bujauskas-pristatymas/15087?prev=all",
+            "name": "Parodos apie architektą prof. dr. Vytautas Bujauskas pristatymas",
+            "creator": "",
+            "description": "Lapkričio 19 d. 14 val. kviečiame į parodos „Nauji dokumentai archyve – architektas prof. dr. Vytautas Bujauskas (1922–1998)“ pristatymą!\n\nParodoje demonstruojami prof. dr. Vytauto Bujausko disertacijos „Miesto centro rekonstrukcijos architektūriniai-planiniai klausimai (Kauno pavyzdžiu)“ rengimo dokumentai, disertacijoje naudota vaizdinė Kauno miesto planų ir statinių medžiaga, ekspedicijų metu užfiksuotų Lietuvos miestų ir vietovių fotografijos, V. Bujausko parengti projektai ir statinių nuotraukos, šeimos albumų fotografijos. Šiuos dokumentus archyvui saugoti perdavė profesoriaus dukra Rūta Antanaitienė.\n\nArchitektas V. Bujauskas per savo karjerą parengė 35 visuomeninių namų bei daugiau nei 100 gyvenamųjų namų projektų. 1950 m. baigęs architektūros studijas, jis pradėjo dėstyti Kauno politechnikos institute. 1959–1962 m. ėjo atsakingas vyriausiojo Kauno miesto architekto pareigas. 1968 m. apsigynė disertaciją architektūros srityje ir įgijo humanitarinių mokslų daktaro laipsnį. 1971 m. buvo pakviestas dirbti Valstybinio dailės instituto Kauno vakarinio skyriaus Interjero ir įrenginių katedroje, o 1982 m. tapo šios katedros profesoriumi. 1983–1987 m. ėjo Pramoninės dailės fakulteto dekano pareigas, o 1987 m. buvo paskirtas Gamybinės aplinkos katedros profesoriumi. Savo profesinę veiklą architektas baigė 1993 m.\n\nParodos atidaryme dalyvaus ir ypatingos viešnios – Vilniaus dailės akademijos Kauno fakulteto doc. dr. Vaida Almonaityte-Navickienė, prof. dr. V. Bujausko dukros Rūta Antanaitienė, Lietuvos sveikatos mokslų universiteto tarptautinių programų koordinatorė, ir architektė Jūratė Adomaitienė.\n\nLauksime jūsų parodos pristatyme! Paroda veiks iki 2025 m. kovo 31 d.",
+            "img": "https://storage.googleapis.com/dmthumbs/kk15087.jpg",
+            "time_start": "2024-11-19T12:00:00Z",
+            "time_end": "2025-03-30T21:00:00Z",
+            "tickets_url": "https://kultura.kaunas.lt/renginys/parodos-apie-architekta-prof-dr-vytautas-bujauskas-pristatymas/15087?prev=all",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:02:24Z",
+            "location": {
+              "name": "Kauno regioninis valstybės archyvas",
+              "address": "Maironio g. 28B, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "0ef2a12b-4302-4a65-9fb3-f24455a63755",
+            "ev_id": "c744f2dfc6c340d4cc80b6dea821bfe2a2e24d89",
+            "ev_from": "eventim.de",
+            "url": "https://www.eventim.de/event/jurassic-the-immersive-experience-flextickets-ausstellungsschiff-ms-jurassic-de-19201128/",
+            "name": "Jurassic - FLEX-TICKET ALL OVER",
+            "creator": "",
+            "description": "Die interaktive Familienausstellung auf dem Ausstellungsschiff im Stuttgarter Hafen!",
+            "img": "https://www.eventim.de/obj/media/DE-eventim/teaser/222x222/2024/jurassic-the-immersive-experience-tickets-1024-2024.jpg",
+            "time_start": "2024-11-21T08:00:00Z",
+            "time_end": "2025-03-30T14:00:00Z",
+            "tickets_url": "https://www.eventim.de/event/jurassic-the-immersive-experience-flextickets-ausstellungsschiff-ms-jurassic-de-19201128/",
+            "tickets_price": 30,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "MS-Jurassic - The Immersive Experience",
+              "address": "Berger Steg, 70372 Stuttgart, Germany",
+              "city": "Stuttgart",
+              "country": "Germany"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "d275b6df-4ff2-43e3-a032-e70cb4430b6d",
+            "ev_id": "06a544aa56bbb4676049ed2383afdc5063e5b4ea",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/jiri-patera-retrospektiva/szrxxmx/",
+            "name": "Jiří Patera: Retrospektiva",
+            "creator": "",
+            "description": "",
+            "img": "https://goout.net/i/131/1315040-383.jpg",
+            "time_start": "2024-11-22T10:00:01Z",
+            "time_end": "2025-03-02T21:59:00Z",
+            "tickets_url": "https://goout.net/en/jiri-patera-retrospektiva/szrxxmx/",
+            "tickets_price": 0,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Západočeská galerie v Plzni - výstavní síň Masné krámy",
+              "address": "Pražská 353/18, Plzeň, Czechia",
+              "city": "Pilsen 3",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "9c9d176a-5f88-466d-86fa-f370b7a5111e",
+            "ev_id": "b4d650094f022fa3c490b75cd90bbc0b14db6ae1",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/muzikine-dovana",
+            "name": "Muzikinė dovana",
+            "creator": "Muzikos magijos klubas",
+            "description": "  * Dovanų kuponas keičiamas tik į „Muzikos magija“ organizuojamų renginių bilietus, _www.muzikosmagija.lt_\n  * Dovanų kuponai nėra grąžinami arba keičiami į pinigus\n  * Jeigu įsigyjamų bilietų kaina yra didesnė už dovanų kupone nurodytą sumą, svečias sumoka skirtumą\n  * Vieno apsipirkimo metu galima panaudoti kelis dovanų kuponus\n  * Nepanaudota kupono vertės dalis negrąžinama, bet ji gali būti įskaityta, įsigyjant bilietą į kitą renginį\n  * Dovanų kuponas jo sugadinimo, pametimo ar kitokio praradimo atveju nebus keičiamas į naują\n  * Jeigu dovanų kuponai nebuvo panaudoti jo galiojimo laikotarpiu, vėliau jie laikomi nebegaliojančiais, jo galiojimas nepratęsiamas ir pinigai negrąžinami\n  * Kuponas galioja iki 2025 liepos mėnesio\n\n\n",
+            "img": "https://tickets.paysera.com/public/images/cm3vmhysh00063j6qo2x16wgu/muzikine-dovana_lt__1732455418.jpeg?0687182bc2b79f292f5b8fea6585cccc?v30",
+            "time_start": "2024-11-23T22:00:53Z",
+            "time_end": "2025-03-31T09:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/muzikine-dovana/buy",
+            "tickets_price": 30,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:24:40Z",
+            "location": {
+              "name": "Muzikos magijos klubas",
+              "address": "Šv. Stepono g. 12, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "2bf67307-c8be-44a8-ad37-4df4962a3570",
+            "ev_id": "6f5401de18912bdf259b84aa9363f69799fa98ab",
+            "ev_from": "radaras.app",
+            "url": "https://www.kernave.lt/renginiai/kvieciame-i-parodos-mano-batai-buvo-du-atidaryma/",
+            "name": "Kviečiame į parodos „Mano batai buvo du...“ atidarymą bei pristatymą",
+            "creator": "Valstybinio Kernavės kultūrinio rezervato direkcija",
+            "description": "Š. m. lapkričio 24-ąją (sekmadienį), 13.00 val. Kernavės archeologinės vietovės muziejaus parodų erdvėje vyks jungtinės Dalios Grigonienės ir Arūno Puškoriaus rekonstruotų archeologinių odinių dirbinių parodos „Mano batai buvo du...“ pristatymas. Minėtų aukščiausio meistriškumo amatininkų sukurtos parodos vienijanti tema – odiniai dirbiniai ir jų rekonstrukcijos, tačiau pristatomas turinys ir potemės – skirtingos.\n \nKernaviškės Dalios Grigonienės parodoje „XIII – XIV a. Kernavės gyventojų apavo rekonstrukcijos“ pristatoma išsami XIII – XIV a. miesto gyventojų apavo kolekcija, tiksliausiai atspindinti to laikotarpio Kernavės gyventojų apavo ypatumus, batsiuvių meistriškumo lygį, modelių įvairovę. „Kernavės viduramžių laikotarpio odinio apavo radiniai yra reikšmingi, atkuriant mūsų krašto XIII – XIV a. miestų gyventojų kostiumą. Pastarųjų trijų dešimtmečių laikotarpiu sukaupta daug naujų archeologinių odinių radinių Kernavėje, apie kuriuos norime ne tik pasakoti, bet ir parodyti.“ – mintimis dalijasi Dalia.\n \nArcheologo dr. Arūno Puškoriaus parodoje „Odos dirbiniai senovės vaikų gyvenime (XIV – XVII a.)“ pristatomos neabejotinai vaikams priklausiusių odinių dirbinių rekonstrukcijos, pagamintos pagal XIV – XVII a. archeologinius radinius: apavas ir žaislai. Tai ypač reti radiniai. Įvairių muziejų fonduose kai kurie saugomi originalai dar nėra restauruoti arba nepilnai išlikę, todėl vienintelis būdas juos pamatyti yra moksliškai pagrįsta rekonstrukcija. Pasak Arūno: „Daugelį metų kauptų duomenų rezultatas – unikali rekonstrukcijų paroda, leidžianti pažvelgti į mažai pažintą senovės vaikų pasaulį – pilną meilės ir tėviškos globos.“\n \nŠiandien Kernavė – eksperimentinės archeologijos, archajinės gyvensenos bei amatų nuo akmens amžiaus atkūrimo lopšys, gyvas istorijos centras, skatinantis saugoti bei vertinti kultūrinį paveldą, rūpintis jo sklaida, prieinamumu. Parodoje „Mano batai buvo du...“ veiks interaktyvi erdvė žaidimams su odiniais kamuoliukais, pristatymo metu koncertuos Kernavės folkloro ansamblis „Medgrinda“ (vadovė Kristina Stankevičienė).\n \nMaloniai kviečiame mus aplankyti!\n \nParodos organizatorius: Valstybinio Kernavės kultūrinio rezervato direkcija\n \nParoda veiks nuo 2024 m. lapkričio 24 d. iki 2025 m. kovo mėn.\n \nParodą galima apžiūrėti Kernavės archeologinės vietovės muziejaus parodų erdvėje (Kerniaus g. 4a, Kernavė, Širvintų r.), antradieniais – sekmadieniais, 10.00–16.00 val.\n \nProjektą iš dalies finansuoja Lietuvos kultūros taryba",
+            "img": "https://storage.googleapis.com/dmthumbs/krnede732e03f51b2015d9cc7ea91df85f9.jpg",
+            "time_start": "2024-11-24T11:00:00Z",
+            "time_end": "2025-02-28T22:00:00Z",
+            "tickets_url": "https://www.kernave.lt/renginiai/kvieciame-i-parodos-mano-batai-buvo-du-atidaryma/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:01:12Z",
+            "location": {
+              "name": "Kernave Archaeological Site Museum",
+              "address": "Kerniaus g. 4A, Kernavė, Lithuania",
+              "city": "Kernavė",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "270fc2a3-bd23-4335-a2ca-12306b2ba184",
+            "ev_id": "0b07203d4456c0a4fbfa43efd52f059f55c2ae7e",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/women-in-art/szqsynx/",
+            "name": "Women in Art",
+            "creator": "",
+            "description": "**Art Palace Prague presents the exhibition *Women in Art*, a kaleidoscope of female artists from all over the world. This presentation features 21 female artists who explore a wide range of themes and styles through their work, celebrating the unique creativity and diversity of women's art.**\n\nThe exhibition will be held in the historic palace, whose richly decorated spaces provide the backdrop for over 200 exhibited works. Each work of art tells its own story, whether through large scale paintings or bronze or marble sculptures. Visitors will get the opportunity to search for the artists' personal experiences, feelings and cultural context in their work, thereby revealing the strength and depth of a distinctive female perspective on art.\n\nThis exhibition is not just a celebration of women's art, but also an opportunity for a deep discussion about the multifaceted role of women in the art world. The *Women in Art* exhibition will allow visitors to see and appreciate the diversity and innovative approaches that female artists bring to the world of art; it showcases the richness of female creativity and encourages reflection on how art shapes our culture and identity.",
+            "img": "https://goout.net/i/132/1320013-383.jpg",
+            "time_start": "2024-11-25T10:00:01Z",
+            "time_end": "2025-03-29T21:59:00Z",
+            "tickets_url": "https://goout.net/en/women-in-art/szqsynx/",
+            "tickets_price": 150,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Art Palace Prague",
+              "address": "Na Příkopě 858/110 00, Nové Město, Czechia",
+              "city": "Prague",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "9de12d84-410c-4bf3-82fe-27b33afc2568",
+            "ev_id": "cd7289abe44abe7cdfc145c8435519bf027cb1d0",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/ekskursijos-lyduvenu-gelezinkelio-tiltu-2024-2025-ziema-excursions-on-the-lyduvenai-railway-bridge-2024-2025-winter",
+            "name": "Ekskursijos Lyduvėnų geležinkelio tiltu (žiema 2024/2025 )/Excursions on the Lyduvėnai railway bridge (2024/2025 Winter)",
+            "creator": "Žemaitijos saugomų teritorijų direkcija",
+            "description": "**Nusiteikite nuostabiems įspūdžiams! Žvalgysimės po Dubysos slėnį iš 33 m aukščio! Lyduvėnų geležinkelio tiltas perkels nuo vieno slėnio šlaito ant kito. Prireiks šiek tiek drąsos pereiti tiltą, tačiau patirtų įspūdžių tikrai nepamiršite.**\n\n**_Atkreipiame dėmesį:_**\n\n  1. **Kiekvienam bilietui užpildykite konkretaus lankytojo vardą ir pavardę;**\n  2. **Ekskursijoje gali dalyvauti tik tas lankytojas, kuriam nupirktas bilietas (lankytojų keisti negalima);**\n  3. **_Atvykus į ekskursiją su savimi PRIVALOMA TURĖTI asmens tapatybę patvirtinantį dokumentą (pasą, ID kortelę, vairuotojo pažymėjimą ar pan.)._**\n\n\n\n**Get ready for a unique moment, when you will find yourself 33 metres above a deep valley of The River Dubysa. The 599-metre long railway bridge will take you from one valley‘s slope to another. It will take some courage to cross the bridge, but we guarantee a unique experience that you will never forget.**\n\n**_Please note:_**\n\n  1. **Please enter the full name of the visitor on each ticket;**\n  2. **The ticket can only be used by the person named on it (changing visitors is not allowed);**\n  3. **_Please bring proof of your identity (passport, ID card, driving licence, etc.) with you on the tour._**\n\n\n\n**Ekskursijos pradžios vieta ir automobilių stovėjimo aikštelė yra adresu Tilto g. 4A, Lyduvėnai, Raseinių rajono savivaldybė, Lietuva. Naviguojant su Google Maps, paieškos laukelyje reikia įvesti ,,Aikštelė tilto lankytojams“./The starting point and parking lot are located at Tilto g. 4A, Lyduvėnai, Raseiniai District Municipality, Lithuania. If you use Google Maps, please enter ,,Aikštelė tilto lankytojams“.**\n",
+            "img": "https://tickets.paysera.com/public/images/cm3sfdw6u001l35754ueywcu2/ekskursijos-lyduvenu-gelezinkelio-tiltu-2024-2025-ziema-excursions-on-the-lyduvenai-railway-bridge-2024-2025-winter_lt__1740049296.jpeg?9562b95e73c0b9092e533243f7e9772e?v30",
+            "time_start": "2024-12-01T08:00:00Z",
+            "time_end": "2025-02-28T12:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/ekskursijos-lyduvenu-gelezinkelio-tiltu-2024-2025-ziema-excursions-on-the-lyduvenai-railway-bridge-2024-2025-winter/buy",
+            "tickets_price": 10,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-22T22:00:00Z",
+            "location": {
+              "name": "Tilto g. 4A",
+              "address": "Tilto g. 4A, Lyduvėnai, Lithuania",
+              "city": "Lyduvėnai",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "7d6546a1-34ec-429e-8737-fffd253b663f",
+            "ev_id": "d805eb073ea4c6ab1bdcfb06f72c62a37ba77b27",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/teatro-studija-vaikams-teatralnaya-studia-dlya-detey",
+            "name": "Teatro studija vaikams (Театральная студия для детей)",
+            "creator": "MB Meno respublika",
+            "description": "Teatro studija vaikams – tai vieta, kur mažieji aktoriai gali išmokti aktorystės, improvizacijos ir scenos judesių paslapčių. Užsiėmimai lavina kūrybiškumą, pasitikėjimą savimi ir padeda vaikams jaustis laisvai scenoje.\n\nТеатральная студия для детей – это место, где маленькие актёры изучают основы актёрского мастерства, импровизации и сценического движения. Занятия развивают креативность, уверенность и помогают детям чувствовать себя свободно на сцене.\n\nGrupių užsiėmimų tvarkaraštis / Расписание занятий групп: www.menorespublika.lt\n",
+            "img": "https://tickets.paysera.com/public/images/cm43x0gqp000f3b6vjwdvpgsm/teatro-studija-vaikams-teatralnaya-studia-dlya-detey_lt__1738238064.jpeg?aa81a75e43aea4229f8a090b1846a064?v30",
+            "time_start": "2024-12-02T14:00:00Z",
+            "time_end": "2025-05-26T14:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/teatro-studija-vaikams-teatralnaya-studia-dlya-detey/buy",
+            "tickets_price": 15,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:24:29Z",
+            "location": {
+              "name": "Viršuliškių g. 38b",
+              "address": "Viršuliškių g. 38b, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "038392d1-2d4a-4ed4-9161-53cbad1f31e8",
+            "ev_id": "020b40b4e2d16482c4f53b0447356a212e4e40c6",
+            "ev_from": "goout.net",
+            "url": "https://goout.net/en/josef-koudelka-ruins/szwhtmx/",
+            "name": "Josef Koudelka: Ruins",
+            "creator": "",
+            "description": "The photographs of Josef Koudelka’s latest series were made over many years, from 1991 to 2017, at more than 200 archaeological sites in the Mediterranean. The photographs from the *Ruins* project are part of the generous gift of roughly 2,500 photographs of his life's work, which Mr Koudelka has presented to the Museum over the past few years.",
+            "img": "https://goout.net/i/131/1314310-383.jpg",
+            "time_start": "2024-12-04T10:00:01Z",
+            "time_end": "2025-03-30T20:59:00Z",
+            "tickets_url": "https://goout.net/en/josef-koudelka-ruins/szwhtmx/",
+            "tickets_price": 0,
+            "tickets_currency": "CZK",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Museum of Decorative Arts in Prague",
+              "address": "17. listopadu 2, Josefov, Czechia",
+              "city": "Prague 1",
+              "country": "Czechia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "609af7f8-8742-4af0-bfe6-5d60511e4a91",
+            "ev_id": "fdb79bb87667728d26273438783a679441de0b3e",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/teksturinis-menas",
+            "name": "Tekstūrinė tapyba",
+            "creator": "MB Ugdymo erdvė KOKO",
+            "description": "Tekstūrinė tapyba – patirtis, kuri atpalaiduoja, išlaisvina, terapina. Užsiėmimus ves – žaibiškai populiarėjanti menininkė, kurios tekstūrinius meno kūrinius ypač vertina užsienio klientai, bet susižavėjimo neslepia ir lietuviai. JI – VESTINA. Susipažinome su šiuo ypatingu žmogumi Jos namuose, kai Ji patikėjo savo mažylį į „Kokono“ įkūrėjos Raimondos rankas. Ir antras dalykas pavergęs Raimondos širdį (po mažylio) – buvo Vestinos namuose kabantys Jos rankomis kurti paveikslai. Vien bendravimas su Vestina yra kaip terapija, o kur dar pats procesas! KVIEČIAME IŠ VISOS ŠIRDIES dalyvauti tekstūrinės tapybos užsiėmimuose su Vestina.\n\n**Gruodžio 13d. 18:00** _Suaugusiesiems_ bus puiki proga papuošti savo namus savo unikaliu darbu. Bet svarbiausia ne galutinis tikslas, o pats procesas – kol nepatyrei, nesuprasi, koks tai užburiantis “reikalas”, terapija – ne kitaip. Galimybė darbą užbaigti per du užsiėmimus, jeigu norite įspūdingo ir išbaigto darbo. Nes organizuosime dirbtuves pastoviu grafiku. \n\n**Gruodžio 14d. 10:00** _Mažyliai 1,5 - 6 m._ tapysime ant drobės valgoma - saugia druskos mase, bus daug terlionės, bet jug tai taip smagu! Ir tokia vertinga dovana namams – pirmasis mažylio rimtas meninis darbas! \n",
+            "img": "https://tickets.paysera.com/public/images/cm49v9bmh0004296mxvdi4e0u/teksturinis-menas_lt__1733431005.jpeg?976bc1216a78034f0b6385bf2309055b?v30",
+            "time_start": "2024-12-13T16:00:00Z",
+            "time_end": "2025-05-31T21:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/teksturinis-menas/buy",
+            "tickets_price": 17,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2024-12-11T22:00:00Z",
+            "location": {
+              "name": "Danės g. 6",
+              "address": "Danės g. 6, Klaipėda, Lithuania",
+              "city": "Klaipėda",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "016fb3df-3c42-4c2d-bfab-32b58d88d890",
+            "ev_id": "77a92b28dcc801f9cc1c20fd7829345408fa183f",
+            "ev_from": "ticketcorner.ch",
+            "url": "https://www.ticketcorner.ch/event/dinosaur-invasion-centro-esposizioni-19572098/",
+            "name": "Dinosaur Invasion - FLEX",
+            "creator": "",
+            "description": "",
+            "img": "https://www.ticketcorner.ch/obj/media/CH-eventim/teaser/222x222/2022/dinosaur-invasioin-tickets1-2023.jpg",
+            "time_start": "2024-12-14T07:59:00Z",
+            "time_end": "2025-03-09T08:00:00Z",
+            "tickets_url": "https://www.ticketcorner.ch/event/dinosaur-invasion-centro-esposizioni-19572098/",
+            "tickets_price": 0,
+            "tickets_currency": "CHF",
+            "categories": [
+              "Entertainment"
+            ],
+            "updated": "2024-12-18T21:23:12Z",
+            "location": {
+              "name": "Lugano Exhibition Center",
+              "address": "Via Campo Marzio, 6900 Lugano, Switzerland",
+              "city": "Lugano",
+              "country": "Switzerland"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "8f2a3299-ca1f-47ae-9628-1485b0b5d8f3",
+            "ev_id": "8e14b3523280f6f670efd0c5279112bb1c6c394a",
+            "ev_from": "eventim.de",
+            "url": "https://www.eventim.de/event/dauerkarte-rueckrunde-basketball-sg-bergische-loewen-1-regionalliga-west-sporthalle-des-schulzentrum-herkenrath-19596102/",
+            "name": "Dauerkarte Rückrunde",
+            "creator": "",
+            "description": "Dauerkarte Rückrunde Saison 2024/25 der SG Bergische Löwen.",
+            "img": "https://www.eventim.de/obj/mam/eventim.light/d2/5b/dauerkarte-rueckrunde-tickets_334709_2895037_222x222.jpg",
+            "time_start": "2024-12-14T22:00:00Z",
+            "time_end": "2025-03-28T22:00:00Z",
+            "tickets_url": "https://www.eventim.de/event/dauerkarte-rueckrunde-basketball-sg-bergische-loewen-1-regionalliga-west-sporthalle-des-schulzentrum-herkenrath-19596102/",
+            "tickets_price": 27.9,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Action"
+            ],
+            "updated": "2024-12-28T02:48:43Z",
+            "location": {
+              "name": "Sporthalle Herkenrath",
+              "address": "51429 Bergisch Gladbach, Germany",
+              "city": "Bergisch Gladbach",
+              "country": "Germany"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "b0257c80-ada8-4537-a48c-9518b4a169fe",
+            "ev_id": "8232917ed71f2c333a36e2c08b9db5b67e4417ec",
+            "ev_from": "piletilevi.ee",
+            "url": "https://www.piletilevi.ee/est/piletid/varia/evelina-vedomi-kunstiloengute-sari-koos-veinide-degusteerimisega-vene-keeles-loengusarja-pilet-452197/",
+            "name": "Evelina Vedomi kunstiloengute sari koos veinide degusteerimisega (vene keeles) / Loengusarja pilet",
+            "creator": "Hopneri maja, Tallinn",
+            "description": "\n",
+            "img": "https://www.piletilevi.ee/imageGenerator/concertShort/cd0c69740d4468c7431b0330424ccbb5.webp",
+            "time_start": "2024-12-18T16:00:00Z",
+            "time_end": "2025-04-24T17:00:00Z",
+            "tickets_url": "https://store.piletilevi.ee/public/?concert=452197&design=piletilevi&lang=est&center=7",
+            "tickets_price": 75,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2024-12-08T22:00:00Z",
+            "location": {
+              "name": "Hopneri maja",
+              "address": "Raekoja plats 18, Tallinn, Estonia",
+              "city": "Tallinn",
+              "country": "Estonia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "1935e9f5-1c26-447a-91fd-ad99d00b9c3c",
+            "ev_id": "461e94041367cf54763705916d47656ae075a815",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/bit-byte-dovanu-kuponai-ateities-kurejams",
+            "name": "bit&Byte dovanų kuponai ATEITIES KŪRĖJAMS",
+            "creator": "bit&Byte kūrybinių technologijų akademija",
+            "description": "Dovanokime įgūdžius Kalėdų proga!  \nIeškote dovanos, kuri būtų prasminga ir suteiktų nepamirštamų patirčių? Šventiniu laikotarpiu padovanokite tai, kas išlieka visą gyvenimą – naujus įgūdžius, kūrybinius potyrius ir galimybę atrasti technologijų pasaulį. Pasinaudokite mūsų specialiais kalėdiniais pasiūlymais!  \n\n\nKalėdiniai pasiūlymai:\n\n  * **1 mėnesio užsiėmimai** – tik **60 EUR.**  \nSkirta tiems, kurie nori išbandyti ir atrasti technologijų kūrimo džiaugsmą užsiėmimuose.   \nUžsiėmimai vyksta šeštadieniais Vilniuje, Kaune, Klaipėdoje ir online 10:00-11:30 arba 12:00-13:30.  \nNAUJIENA: užsiėmimai Vilniuje bei Kaune nuo sausio mėnesio ir darbo dienomis!\n  * **5 dienų \"PramogAUK\" stovykla (vasario 17–21 d.)** – tik **240 EUR**  \nStovyklos vyksta Vilniuje ir Kaune.  \nPuiki proga gilintis į žaidimų kūrimą, dizainą ir testavimą žiemos atostogų metu.\n  * **4 dienų \"Biotechnologijos\" stovykla (balandžio 22–25 d.)** – tik **190 EUR**  \nStovyklos vyksta Vilniuje ir Kaune.  \nIntensyvi ir įkvepianti pavasario stovykla, kurioje vaikai atras naujus įgūdžius ir draugus.\n\n\n\nPadovanokite dovaną, kuri įkvėps kurti, mokytis ir augti. Užsisakykite kalėdinį kuponą jau dabar ir suteikite džiaugsmo šių švenčių proga!\n\n**Pasinaudokite pasiūlymais iki sausio 1d. ir rezervuokite vietą!**\n\n_Vietų kiekis ribotas._\n",
+            "img": "https://tickets.paysera.com/public/images/cm4cjb6o100023573iad6fynw/bit-byte-dovanu-kuponai-ateities-kurejams_lt__1733817478.jpeg?2a0a6493630a590fa6c86c2fa94afa35?v30",
+            "time_start": "2025-01-04T08:00:00Z",
+            "time_end": "2025-05-24T08:30:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/bit-byte-dovanu-kuponai-ateities-kurejams/buy",
+            "tickets_price": 60,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-27T18:21:35Z",
+            "location": {
+              "name": "Saulėtekio al. 17",
+              "address": "Saulėtekio al. 17, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "8e25c066-5367-48f2-91aa-401b4a71267b",
+            "ev_id": "a792076325bc4960eb118cda339124f34c2cf85e",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7",
+            "name": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE IR BAŽNYČIOJE",
+            "creator": "MB ,,Kauno gidas\"",
+            "description": "MB ,,Kauno gidas” maloniai kviečia į ekskursiją buvusiame kamaldulių vienuolyne Pažaislyje, kuris laikomas vienu gražiausių baroko ansamblių Baltijos šalyse! \n\nPažinkime Kauną kartu!\n\nPažaislio kamaldulių vienuolyno ir Švč. Mergelės Marijos Apsilankymo bažnyčios mįslinga trauka nuo seno žadino žmonių vaizduotę. Vienuolyną XVII amžiaus antroje pusėje įkūrė Lietuvos Didžiosios Kunigaikštystės kancleris Kristupas Zigmantas Pacas. Vienuolyno statyba prasidėjo 1667 metais. Kalnas, ant kurio buvo numatytas pastatas, buvo pavadintas  _MontePacis_(Taikos kalnas).\n\nŠiandien vienuolynas skaičiuoja jau daugiau nei tris šimtmečius trunkančią, legendomis apipintą istoriją, žavi išskirtine barokine išvaizda ir spalvinga jį supančia aplinka. Ekskursijos metu aplankysime vienuolyną ir bažnyčią. Gidas papasakos apie vienuolius kamaldulius ir kitus vienuolyno šeimininkus, apie jo fundatorius ir čia dirbusius garsiausius to meto meistrus, atskleis freskų paslaptis.\n\nEkskursijos pradžia: Pažaislio kamaldulių vienuolynas ( T. Masiulio g. 31, Kaunas). Gidas lauks Jūsų Pažaislio vienuolyne prie kasos. \n\nEkskursijos trukmė: 1 val. 45 min.\n\nEkskursijos bilieto kaina: šeštadieniais 12 Eur suaugusiam asmeniui; darbo dienomis 15 Eur suaugusiam asmeniui.\n\nPrieš ekskursiją, muziejaus kasoje, būtina įsigyti Pažaislio vienuolyno ansamblio lankytojo bilietą: 6 Eur suaugusiam, 3 Eur moksleiviui, studentui, senjorui. Nuo 2025 m. sausio 1 d. Pažaislio vienuolyno ansamblio bilietų kainos: 10 Eur suaugusiesiems, 5 Eur mokiniams, studentams, senjorams.\n\nVaikams iki 18 metų,**** dalyvaujantiems ekskursijoje kartu su suaugusiais šeimos nariai reikės įsigyti tik Pažaislio vienuolyno ansamblio lankytojo bilietą. Kaina 3 Eur. / Nuo 2025 m. sausio 1 d. Pažaislio vienuolyno ansamblio bilietas mokiniui kainuos 5 Eur.\n\nEkskursiją Pažaislio vienuolyne galima užsisakyti ir privačiai, Jums patogiu laiku, Pažaislio vienuolyno ansamblio darbo metu: nuo antradienio iki penktadienio – 10 -17 val., šeštadieniais 10-16 val. Užsakomos ekskursijos gali būti vedamos lietuvių, anglų arba rusų kalbomis. Grupėms taikomos nuolaidos.\n\nGalite įsigyti ir dovanų kuponą. \n\nDaugiau informacijos: tel. +370 698 73272, el. p. info@kaunastour.lt, www.kaunastour.lt\n\nJeigu jaučiate peršalimui būdingus simptomus, prašome susisiekti ir suteiksime galimybę perkelti ekskursijos datą! \n\nRekomenduojama avalynė ir apranga pagal oro sąlygas.\n\nPinigų grąžinimas:\n\n  * Jeigu įsigijote bilietą į viešai paskelbtą ekskursiją, tačiau Jūsų planai pasikeitė, pinigai už bilietą negrąžinami (pagal CK 6.22810 str. 12 p. vartotojai negali atsisakyti sutarčių dėl apgyvendinimo, prekių vežimo, automobilių nuomos, viešojo maitinimo ar laisvalaikio paslaugų, jeigu sutartyje nustatyta konkreti paslaugų teikimo data ar laikotarpis).\n  * Pinigus už įsigytus bilietus į viešai paskelbtas ekskursijas grąžinami tais atvejais, kai renginys yra atšaukiamas, perkeliamas, o naujai pasiūlyta data ar vieta Jums netinka.\n\n\n",
+            "img": "https://tickets.paysera.com/public/images/315b7f0b-82cc-11ef-8e30-0050562fceaa/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7_lt__1736024080.jpeg?61b1d7d9cf270f44b255f47fe47e6414?v30",
+            "time_start": "2025-01-04T20:50:00Z",
+            "time_end": "2025-02-28T10:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7/buy",
+            "tickets_price": 12,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-05T21:28:34Z",
+            "location": {
+              "name": "Pažaislis Monastery and Church",
+              "address": "T. Masiulio g. 31, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "96beacab-35b6-4a8a-a27d-fc0968bc6358",
+            "ev_id": "75fc74f3d1407b6498d8773096db5612905313c0",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/tarp-debesu-antradieniais-10-00-uzsiemimas-5-24-men-kudikiams-3fdd",
+            "name": "„Tarp debesų“ ANTRADIENIAIS 10:00 (užsiėmimas 5-24 mėn. kūdikiams)",
+            "creator": "Všį Teatras vaikams „Pradžia”",
+            "description": "**UŽSIEMIMĄ SUAUGUSIAM SU VAIKU REIKALINGAS VIENAS 15 EUR VERTĖS BILIETAS.**\n\n„Tarp debesų“ - tai aktorės, režisierės Gintarės Latvėnaitės sukurta ir atliekama teatro edukacijos programa skirta 5-24 mėn. vaikams ir juos lydintiems suaugusiems. \"Programą sudaro užsiėmimai, kurių vienas trunka iki 45 min. Tai tarsi kūrybinės dirbtuvės, kurių metu žaisime sensorinius žaidimus, per judesį ir ritmą ugdysime vaikų regą, klausą ir pojūtį. Daug dėmesio užsiėmimuose bus skiriama muzikai, gyvam jos atlikimui, klausymui ir pajautimui.\" - teigia kūrėja. Užsiėmimų metu scenos šviesose sekamos pasakos ir teatrališkos rimuotės - tikras poilsis mamoms ar tėčiams nuo namų rutinos ir puiki medžiaga tolimesniems lavinamiesiems žaidimams su vaiku. Užsiėmimo tempas padiktuotas kūrėjos asmeninės motiniškos patirties - balansas, tarp pasyvaus mėgavimosi teatru ir artimo kontakto su savo vaiku.  \n  \nGintarė Latvėnaitė yra trijų vaikų mama, Vilniaus valstybinio mažojo teatro aktorė, sukūrusi dešimtis vaidmenų, už kuriuos buvo nominuota \"Auksinio scenos kryžiaus\" apdovanojimuose. Ji taip pat režisavo spektaklį vaikams \"Mano batai buvo du\" (VVMT) ir spektaklį kūdikiams \"Manuliukai\" (VVMT). Gintarė daug metų dirbo teatro mokytoja su įvairaus amžiaus vaikais, aktyviai domisi vaikų psichologine raida ir teatro priemonių poveikiu kūdikių vystymuisi.\n\n**KAIP LANKYTI?**\n\nRekomenduojame lankyti užsiėmimus nuolat, pasirenkant bilietą tuo pačiu metu kas savaitę. Abonementų šiems užsiėmimams netaikome, kad galėtumėte lankyti lanksčiu, jums patogiu grafiku.\n\nVieno užsiėmimo **bilietas kainuoja 15 eurų ir yra skirtas vaikui ir lydinčiajam suaugusiui, t.y. dviems asmenims.** Jeigu dalyvauja du tėvai ir vaikas, arba suaugęs su dviem vaikais, pirkadmi bilietus pasirinkite 7 EUR papildomą papildomam asmeniui.\n\nJeigu pageidaujamą datą pagrindinių bilietų nebėra, rašoma, kad jie išpirkti, vadinasi grupė yra pilna. Rinkitės kitą datą.\n\n### **Bilietai į renginį galioja konkrečiai datai ir yra negrąžinami ir nekeičiami.**\n\n###   \n\n\n![unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766](/public/event-image/bf034cec-f588-11ea-846f-02420aff012b/unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766)\n",
+            "img": "https://tickets.paysera.com/public/images/057136d5-bd25-11ef-8e30-0050562fceaa/tarp-debesu-antradieniais-10-00-uzsiemimas-5-24-men-kudikiams-3fdd_lt__1740476597.jpeg?2406879c43663008e2fc37ca3bf9cf4d?v30",
+            "time_start": "2025-01-07T08:00:00Z",
+            "time_end": "2025-06-01T07:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/tarp-debesu-antradieniais-10-00-uzsiemimas-5-24-men-kudikiams-3fdd/buy",
+            "tickets_price": 7,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-26T19:47:25Z",
+            "location": {
+              "name": "Pradžia",
+              "address": "Įėjimas: D1 laiptinė, Laisvalaikio terasa, Verkių g., Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "551a1c47-8e99-4850-8938-458b56731861",
+            "ev_id": "df9dfc33b475423c3a8284f81976228439fc9447",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/tarp-debesu-antradieniais-11-10-uzsiemimas-5-24-men-kudikiams-cbe3",
+            "name": "„Tarp debesų“ ANTRADIENIAIS 11:10 (užsiėmimas 5-24 mėn. kūdikiams)",
+            "creator": "Všį Teatras vaikams „Pradžia”",
+            "description": "**UŽSIEMIMĄ SUAUGUSIAM SU VAIKU REIKALINGAS VIENAS 15 EUR VERTĖS BILIETAS.**\n\n„Tarp debesų“ - tai aktorės, režisierės Gintarės Latvėnaitės sukurta ir atliekama teatro edukacijos programa skirta 5-24 mėn. vaikams ir juos lydintiems suaugusiems. \"Programą sudaro užsiėmimai, kurių vienas trunka iki 45 min. Tai tarsi kūrybinės dirbtuvės, kurių metu žaisime sensorinius žaidimus, per judesį ir ritmą ugdysime vaikų regą, klausą ir pojūtį. Daug dėmesio užsiėmimuose bus skiriama muzikai, gyvam jos atlikimui, klausymui ir pajautimui.\" - teigia kūrėja. Užsiėmimų metu scenos šviesose sekamos pasakos ir teatrališkos rimuotės - tikras poilsis mamoms ar tėčiams nuo namų rutinos ir puiki medžiaga tolimesniems lavinamiesiems žaidimams su vaiku. Užsiėmimo tempas padiktuotas kūrėjos asmeninės motiniškos patirties - balansas, tarp pasyvaus mėgavimosi teatru ir artimo kontakto su savo vaiku.  \n  \nGintarė Latvėnaitė yra trijų vaikų mama, Vilniaus valstybinio mažojo teatro aktorė, sukūrusi dešimtis vaidmenų, už kuriuos buvo nominuota \"Auksinio scenos kryžiaus\" apdovanojimuose. Ji taip pat režisavo spektaklį vaikams \"Mano batai buvo du\" (VVMT) ir spektaklį kūdikiams \"Manuliukai\" (VVMT). Gintarė daug metų dirbo teatro mokytoja su įvairaus amžiaus vaikais, aktyviai domisi vaikų psichologine raida ir teatro priemonių poveikiu kūdikių vystymuisi.\n\n**KAIP LANKYTI?**\n\nRekomenduojame lankyti užsiėmimus nuolat, pasirenkant bilietą tuo pačiu metu kas savaitę. Abonementų šiems užsiėmimams netaikome, kad galėtumėte lankyti lanksčiu, jums patogiu grafiku.\n\nVieno užsiėmimo **bilietas kainuoja 15 eurų ir yra skirtas vaikui ir lydinčiajam suaugusiui, t.y. dviems asmenims.** Jeigu dalyvauja du tėvai ir vaikas, arba suaugęs su dviem vaikais, pirkadmi bilietus pasirinkite 7 EUR papildomą papildomam asmeniui.\n\nJeigu pageidaujamą datą pagrindinių bilietų nebėra, rašoma, kad jie išpirkti, vadinasi grupė yra pilna. Rinkitės kitą datą.\n\n### **Bilietai į renginį galioja konkrečiai datai ir yra negrąžinami ir nekeičiami.**  \n\n\n![unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766](/public/event-image/bf034cec-f588-11ea-846f-02420aff012b/unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766)\n",
+            "img": "https://tickets.paysera.com/public/images/94308146-bd25-11ef-8e30-0050562fceaa/tarp-debesu-antradieniais-11-10-uzsiemimas-5-24-men-kudikiams-cbe3_lt__1739874973.jpeg?2d3a4324e898fdb0d22116098a7de131?v30",
+            "time_start": "2025-01-07T09:10:00Z",
+            "time_end": "2025-06-01T07:05:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/tarp-debesu-antradieniais-11-10-uzsiemimas-5-24-men-kudikiams-cbe3/buy",
+            "tickets_price": 7,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-26T19:47:23Z",
+            "location": {
+              "name": "Pradžia",
+              "address": "Įėjimas: D1 laiptinė, Laisvalaikio terasa, Verkių g., Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "dde5a702-806f-42bc-a735-99cacb12130b",
+            "ev_id": "e2331d9b4b7791c3140f68f035f49b4966ea3480",
+            "ev_from": "eventim.fr",
+            "url": "https://www.eventim.fr/event/aqualibi-belgium-offre-periode-aqualibi-wavre-19499769/",
+            "name": "Aqualibi Belgium - Offre Période",
+            "creator": "",
+            "description": "",
+            "img": "https://www.eventim.fr/obj/mam/france/22/51/aqualibi-2024-tickets_226570_2040381_222x222.jpg",
+            "time_start": "2025-01-07T22:00:00Z",
+            "time_end": "2025-04-04T20:59:00Z",
+            "tickets_url": "https://www.eventim.fr/event/aqualibi-belgium-offre-periode-aqualibi-wavre-19499769/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-24T13:24:30Z",
+            "location": {
+              "name": "Aqualibi",
+              "address": "Bd de l'Europe 100, Wavre, Belgium",
+              "city": "Wavre",
+              "country": "Belgium"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "f42f26c7-dddb-4a76-8288-678464f58498",
+            "ev_id": "2e1796443fbed12a316d46fe5b5023a77a910079",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/tarp-debesu-treciadieniais-10-00-uzsiemimas-5-24-men-kudikiams-c537",
+            "name": "„Tarp debesų“ TREČIADIENIAIS 10:00 (užsiėmimas 5-24 mėn. kūdikiams)",
+            "creator": "Všį Teatras vaikams „Pradžia”",
+            "description": "**UŽSIEMIMĄ SUAUGUSIAM SU VAIKU REIKALINGAS VIENAS 15 EUR VERTĖS BILIETAS.**\n\n„Tarp debesų“ - tai aktorės, režisierės Gintarės Latvėnaitės sukurta ir atliekama teatro edukacijos programa skirta 5-24 mėn. vaikams ir juos lydintiems suaugusiems. \"Programą sudaro užsiėmimai, kurių vienas trunka iki 45 min. Tai tarsi kūrybinės dirbtuvės, kurių metu žaisime sensorinius žaidimus, per judesį ir ritmą ugdysime vaikų regą, klausą ir pojūtį. Daug dėmesio užsiėmimuose bus skiriama muzikai, gyvam jos atlikimui, klausymui ir pajautimui.\" - teigia kūrėja. Užsiėmimų metu scenos šviesose sekamos pasakos ir teatrališkos rimuotės - tikras poilsis mamoms ar tėčiams nuo namų rutinos ir puiki medžiaga tolimesniems lavinamiesiems žaidimams su vaiku. Užsiėmimo tempas padiktuotas kūrėjos asmeninės motiniškos patirties - balansas, tarp pasyvaus mėgavimosi teatru ir artimo kontakto su savo vaiku.  \n  \nGintarė Latvėnaitė yra trijų vaikų mama, Vilniaus valstybinio mažojo teatro aktorė, sukūrusi dešimtis vaidmenų, už kuriuos buvo nominuota \"Auksinio scenos kryžiaus\" apdovanojimuose. Ji taip pat režisavo spektaklį vaikams \"Mano batai buvo du\" (VVMT) ir spektaklį kūdikiams \"Manuliukai\" (VVMT). Gintarė daug metų dirbo teatro mokytoja su įvairaus amžiaus vaikais, aktyviai domisi vaikų psichologine raida ir teatro priemonių poveikiu kūdikių vystymuisi.\n\n**KAIP LANKYTI?**\n\nRekomenduojame lankyti užsiėmimus nuolat, pasirenkant bilietą tuo pačiu metu kas savaitę. Abonementų šiems užsiėmimams netaikome, kad galėtumėte lankyti lanksčiu, jums patogiu grafiku.\n\nVieno užsiėmimo **bilietas kainuoja 15 eurų ir yra skirtas vaikui ir lydinčiajam suaugusiui, t.y. dviems asmenims.** Jeigu dalyvauja du tėvai ir vaikas, arba suaugęs su dviem vaikais, pirkadmi bilietus pasirinkite 7 EUR papildomą papildomam asmeniui.\n\nJeigu pageidaujamą datą pagrindinių bilietų nebėra, rašoma, kad jie išpirkti, vadinasi grupė yra pilna. Rinkitės kitą datą.\n\n### **Bilietai į renginį galioja konkrečiai datai ir yra negrąžinami ir nekeičiami.**  \n\n\n![unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766](/public/event-image/bf034cec-f588-11ea-846f-02420aff012b/unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766)\n",
+            "img": "https://tickets.paysera.com/public/images/5f20b5cd-bd26-11ef-8d2a-0050568dc731/tarp-debesu-treciadieniais-10-00-uzsiemimas-5-24-men-kudikiams-c537_lt__1740562187.jpeg?2406879c43663008e2fc37ca3bf9cf4d?v30",
+            "time_start": "2025-01-08T08:00:00Z",
+            "time_end": "2025-06-01T07:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/tarp-debesu-treciadieniais-10-00-uzsiemimas-5-24-men-kudikiams-c537/buy",
+            "tickets_price": 7,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-26T19:47:12Z",
+            "location": {
+              "name": "Pradžia",
+              "address": "Įėjimas: D1 laiptinė, Laisvalaikio terasa, Verkių g., Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "283ca4e2-3e62-4772-959a-ee7c2978454b",
+            "ev_id": "f3fa9bff452f8f604fa54cca3d636ec38b767619",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/tarp-debesu-treciadieniais-11-10-uzsiemimas-5-24-men-kudikiams-3bcc",
+            "name": "„Tarp debesų“ TREČIADIENIAIS 11:10 (užsiėmimas 5-24 mėn. kūdikiams)",
+            "creator": "Všį Teatras vaikams „Pradžia”",
+            "description": "**UŽSIEMIMĄ SUAUGUSIAM SU VAIKU REIKALINGAS VIENAS 15 EUR VERTĖS BILIETAS.**\n\n„Tarp debesų“ - tai aktorės, režisierės Gintarės Latvėnaitės sukurta ir atliekama teatro edukacijos programa skirta 5-24 mėn. vaikams ir juos lydintiems suaugusiems. \"Programą sudaro užsiėmimai, kurių vienas trunka iki 45 min. Tai tarsi kūrybinės dirbtuvės, kurių metu žaisime sensorinius žaidimus, per judesį ir ritmą ugdysime vaikų regą, klausą ir pojūtį. Daug dėmesio užsiėmimuose bus skiriama muzikai, gyvam jos atlikimui, klausymui ir pajautimui.\" - teigia kūrėja. Užsiėmimų metu scenos šviesose sekamos pasakos ir teatrališkos rimuotės - tikras poilsis mamoms ar tėčiams nuo namų rutinos ir puiki medžiaga tolimesniems lavinamiesiems žaidimams su vaiku. Užsiėmimo tempas padiktuotas kūrėjos asmeninės motiniškos patirties - balansas, tarp pasyvaus mėgavimosi teatru ir artimo kontakto su savo vaiku.  \n  \nGintarė Latvėnaitė yra trijų vaikų mama, Vilniaus valstybinio mažojo teatro aktorė, sukūrusi dešimtis vaidmenų, už kuriuos buvo nominuota \"Auksinio scenos kryžiaus\" apdovanojimuose. Ji taip pat režisavo spektaklį vaikams \"Mano batai buvo du\" (VVMT) ir spektaklį kūdikiams \"Manuliukai\" (VVMT). Gintarė daug metų dirbo teatro mokytoja su įvairaus amžiaus vaikais, aktyviai domisi vaikų psichologine raida ir teatro priemonių poveikiu kūdikių vystymuisi.\n\n**KAIP LANKYTI?**\n\nRekomenduojame lankyti užsiėmimus nuolat, pasirenkant bilietą tuo pačiu metu kas savaitę. Abonementų šiems užsiėmimams netaikome, kad galėtumėte lankyti lanksčiu, jums patogiu grafiku.\n\nVieno užsiėmimo **bilietas kainuoja 15 eurų ir yra skirtas vaikui ir lydinčiajam suaugusiui, t.y. dviems asmenims.** Jeigu dalyvauja du tėvai ir vaikas, arba suaugęs su dviem vaikais, pirkadmi bilietus pasirinkite 7 EUR papildomą papildomam asmeniui.\n\nJeigu pageidaujamą datą pagrindinių bilietų nebėra, rašoma, kad jie išpirkti, vadinasi grupė yra pilna. Rinkitės kitą datą.\n\n### **Bilietai į renginį galioja konkrečiai datai ir yra negrąžinami ir nekeičiami.**  \n\n\n![unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766](/public/event-image/bf034cec-f588-11ea-846f-02420aff012b/unnamed-1.jpeg?88f28661dd0bae194e3f2f183fcb5766)\n",
+            "img": "https://tickets.paysera.com/public/images/d0f96ff2-bd26-11ef-8e30-0050562fceaa/tarp-debesu-treciadieniais-11-10-uzsiemimas-5-24-men-kudikiams-3bcc_lt__1740562213.jpeg?2406879c43663008e2fc37ca3bf9cf4d?v30",
+            "time_start": "2025-01-08T09:10:00Z",
+            "time_end": "2025-06-01T07:15:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/tarp-debesu-treciadieniais-11-10-uzsiemimas-5-24-men-kudikiams-3bcc/buy",
+            "tickets_price": 7,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-26T19:47:10Z",
+            "location": {
+              "name": "Pradžia",
+              "address": "Įėjimas: D1 laiptinė, Laisvalaikio terasa, Verkių g., Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "79f6cb5a-672e-4aec-877c-7677d1f64fbd",
+            "ev_id": "1669710f4849b9d1bdb5031a1f91b88796636a64",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7",
+            "name": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE IR BAŽNYČIOJE",
+            "creator": "MB ,,Kauno gidas\"",
+            "description": "MB ,,Kauno gidas” maloniai kviečia į ekskursiją buvusiame kamaldulių vienuolyne Pažaislyje, kuris laikomas vienu gražiausių baroko ansamblių Baltijos šalyse! \n\nPažinkime Kauną kartu!\n\nPažaislio kamaldulių vienuolyno ir Švč. Mergelės Marijos Apsilankymo bažnyčios mįslinga trauka nuo seno žadino žmonių vaizduotę. Vienuolyną XVII amžiaus antroje pusėje įkūrė Lietuvos Didžiosios Kunigaikštystės kancleris Kristupas Zigmantas Pacas. Vienuolyno statyba prasidėjo 1667 metais. Kalnas, ant kurio buvo numatytas pastatas, buvo pavadintas  _MontePacis_(Taikos kalnas).\n\nŠiandien vienuolynas skaičiuoja jau daugiau nei tris šimtmečius trunkančią, legendomis apipintą istoriją, žavi išskirtine barokine išvaizda ir spalvinga jį supančia aplinka. Ekskursijos metu aplankysime vienuolyną ir bažnyčią. Gidas papasakos apie vienuolius kamaldulius ir kitus vienuolyno šeimininkus, apie jo fundatorius ir čia dirbusius garsiausius to meto meistrus, atskleis freskų paslaptis.\n\nEkskursijos pradžia: Pažaislio kamaldulių vienuolynas ( T. Masiulio g. 31, Kaunas). Gidas lauks Jūsų Pažaislio vienuolyne prie kasos. \n\nEkskursijos trukmė: 1 val. 45 min.\n\nEkskursijos bilieto kaina: 15 Eur suaugusiam asmeniui; 12 Eur senjorui, studentui. Vaikams iki 18 metų,**** dalyvaujantiems ekskursijoje kartu su suaugusiais šeimos nariais nemokamai. \n\nVisiems ekskursijos dalyviams papildomai, muziejaus kasoje, būtina įsigyti Pažaislio vienuolyno ansamblio lankytojo bilietą: 6 Eur suaugusiam, 3 Eur moksleiviui, studentui, senjorui. Nuo 2025 m. balandžio 1 d. keičiasi Pažaislio vienuolyno ansamblio bilietų kainos: 10 Eur suaugusiesiems, 5 Eur mokiniams, studentams, senjorams.\n\nEkskursiją Pažaislio vienuolyne galima užsisakyti ir privačiai, Jums patogiu laiku, Pažaislio vienuolyno ansamblio darbo metu: nuo antradienio iki penktadienio – 10 -17 val., šeštadieniais 10-16 val. Užsakomos ekskursijos gali būti vedamos lietuvių, anglų rusų arba vokiečių kalbomis. Grupėms taikomos nuolaidos.\n\nGalite įsigyti ir dovanų kuponą. \n\nDaugiau informacijos: tel. +370 698 73272, el. p. info@kaunastour.lt, www.kaunastour.lt\n\nJeigu jaučiate peršalimui būdingus simptomus, prašome susisiekti ir suteiksime galimybę perkelti ekskursijos datą! \n\nRekomenduojama avalynė ir apranga pagal oro sąlygas.\n\nPinigų grąžinimas:\n\n  * Jeigu įsigijote bilietą į viešai paskelbtą ekskursiją, tačiau Jūsų planai pasikeitė, pinigai už bilietą negrąžinami (pagal CK 6.22810 str. 12 p. vartotojai negali atsisakyti sutarčių dėl apgyvendinimo, prekių vežimo, automobilių nuomos, viešojo maitinimo ar laisvalaikio paslaugų, jeigu sutartyje nustatyta konkreti paslaugų teikimo data ar laikotarpis).\n  * Pinigus už įsigytus bilietus į viešai paskelbtas ekskursijas grąžinami tais atvejais, kai renginys yra atšaukiamas, perkeliamas, o naujai pasiūlyta data ar vieta Jums netinka.\n\n\n",
+            "img": "https://tickets.paysera.com/public/images/315b7f0b-82cc-11ef-8e30-0050562fceaa/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7_lt__1736541704.jpeg?61b1d7d9cf270f44b255f47fe47e6414?v30",
+            "time_start": "2025-01-10T19:28:00Z",
+            "time_end": "2025-03-31T09:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7/buy",
+            "tickets_price": 12,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-10T19:30:32Z",
+            "location": {
+              "name": "Pažaislis Monastery and Church",
+              "address": "T. Masiulio g. 31, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "91920468-fc33-496f-8ebc-ce70e13cd628",
+            "ev_id": "d7c1d37b0c2951f5a8b6cf611e5950582ccae6a3",
+            "ev_from": "eventim.fr",
+            "url": "https://www.eventim.fr/event/jardin-dacclimatation-offre-promotionnelle-jardin-dacclimatation-paris-16-19772979/",
+            "name": "Jardin d'Acclimatation - Offre Promotionnelle",
+            "creator": "",
+            "description": "",
+            "img": "https://www.eventim.fr/obj/mam/france/b7/96/jda-noel-2024-tickets_318269_2642523_222x222.jpg",
+            "time_start": "2025-01-10T22:00:00Z",
+            "time_end": "2025-03-31T20:59:00Z",
+            "tickets_url": "https://www.eventim.fr/event/jardin-dacclimatation-offre-promotionnelle-jardin-dacclimatation-paris-16-19772979/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Jardin d'Acclimatation",
+              "address": "Bois de Boulogne, Rte de la Prte Dauphine à la Prte des Sablons, Paris, France",
+              "city": "Paris",
+              "country": "France"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "4c3714d1-abdb-4b1d-bdb6-9f706267c91e",
+            "ev_id": "69f79695f0e5d8c51a13f87d68873bfccd26c78d",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7",
+            "name": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE IR BAŽNYČIOJE",
+            "creator": "MB ,,Kauno gidas\"",
+            "description": "MB ,,Kauno gidas” maloniai kviečia į ekskursiją buvusiame kamaldulių vienuolyne Pažaislyje, kuris laikomas vienu gražiausių baroko ansamblių Baltijos šalyse! \n\nPažinkime Kauną kartu!\n\nPažaislio kamaldulių vienuolyno ir Švč. Mergelės Marijos Apsilankymo bažnyčios mįslinga trauka nuo seno žadino žmonių vaizduotę. Vienuolyną XVII amžiaus antroje pusėje įkūrė Lietuvos Didžiosios Kunigaikštystės kancleris Kristupas Zigmantas Pacas. Vienuolyno statyba prasidėjo 1667 metais. Kalnas, ant kurio buvo numatytas pastatas, buvo pavadintas  _MontePacis_(Taikos kalnas).\n\nŠiandien vienuolynas skaičiuoja jau daugiau nei tris šimtmečius trunkančią, legendomis apipintą istoriją, žavi išskirtine barokine išvaizda ir spalvinga jį supančia aplinka. Ekskursijos metu aplankysime vienuolyną ir bažnyčią. Gidas papasakos apie vienuolius kamaldulius ir kitus vienuolyno šeimininkus, apie jo fundatorius ir čia dirbusius garsiausius to meto meistrus, atskleis freskų paslaptis.\n\nEkskursijos pradžia: Pažaislio kamaldulių vienuolynas ( T. Masiulio g. 31, Kaunas). Gidas lauks Jūsų Pažaislio vienuolyne prie kasos. \n\nEkskursijos trukmė: 1 val. 45 min.\n\nEkskursijos bilieto kaina: 15 Eur suaugusiam asmeniui; 12 Eur senjorui, studentui. Vaikams iki 18 metų,**** dalyvaujantiems ekskursijoje kartu su suaugusiais šeimos nariais nemokamai. \n\nVisiems ekskursijos dalyviams papildomai, muziejaus kasoje, būtina įsigyti Pažaislio vienuolyno ansamblio lankytojo bilietą: 6 Eur suaugusiam, 3 Eur moksleiviui, studentui, senjorui. Nuo 2025 m. balandžio 1 d. keičiasi Pažaislio vienuolyno ansamblio bilietų kainos: 10 Eur suaugusiesiems, 5 Eur mokiniams, studentams, senjorams.\n\nEkskursiją Pažaislio vienuolyne galima užsisakyti ir privačiai, Jums patogiu laiku, Pažaislio vienuolyno ansamblio darbo metu: nuo antradienio iki penktadienio – 10 -17 val., šeštadieniais 10-16 val. Užsakomos ekskursijos gali būti vedamos lietuvių, anglų rusų arba vokiečių kalbomis. Grupėms taikomos nuolaidos.\n\nGalite įsigyti ir dovanų kuponą. \n\nDaugiau informacijos: tel. +370 698 73272, el. p. info@kaunastour.lt, www.kaunastour.lt\n\nJeigu jaučiate peršalimui būdingus simptomus, prašome susisiekti ir suteiksime galimybę perkelti ekskursijos datą! \n\nRekomenduojama avalynė ir apranga pagal oro sąlygas.\n\nPinigų grąžinimas:\n\n  * Jeigu įsigijote bilietą į viešai paskelbtą ekskursiją, tačiau Jūsų planai pasikeitė, pinigai už bilietą negrąžinami (pagal CK 6.22810 str. 12 p. vartotojai negali atsisakyti sutarčių dėl apgyvendinimo, prekių vežimo, automobilių nuomos, viešojo maitinimo ar laisvalaikio paslaugų, jeigu sutartyje nustatyta konkreti paslaugų teikimo data ar laikotarpis).\n  * Pinigus už įsigytus bilietus į viešai paskelbtas ekskursijas grąžinami tais atvejais, kai renginys yra atšaukiamas, perkeliamas, o naujai pasiūlyta data ar vieta Jums netinka.\n\n\n",
+            "img": "https://tickets.paysera.com/public/images/315b7f0b-82cc-11ef-8e30-0050562fceaa/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7_lt__1736587587.jpeg?61b1d7d9cf270f44b255f47fe47e6414?v30",
+            "time_start": "2025-01-11T09:25:00Z",
+            "time_end": "2025-03-31T09:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7/buy",
+            "tickets_price": 12,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-12T19:27:23Z",
+            "location": {
+              "name": "Pažaislis Monastery and Church",
+              "address": "T. Masiulio g. 31, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "fea46e3c-9288-41fe-8767-a92a99affca2",
+            "ev_id": "fc5f624376e66c7bcb7caae63d1a528044e7ab2a",
+            "ev_from": "piletilevi.ee",
+            "url": "https://www.piletilevi.ee/est/piletid/muusika/klassika/pass-ludigi-saali-kevadhooaeg-2025-446003/",
+            "name": "Pass / Lüdigi saali kevadhooaeg 2025",
+            "creator": "Lüdigi saal",
+            "description": "**Lüdigi saali kevadhooaeg 2025**\n\n**11\\. jaanuar 2025 PUULUUP**\n\nHiiu kandle duo Puuluup sai alguse aastal 2014 ja selle liikmed on Ramo Teder (sooloartistina [Pastacas](https://www.ounaviks.ee/artist/pastacas/)) ja Marko Veisson (kes on ka antropoloog). Nende esimene album “[Süüta mu lumi](https://puuluup.bandcamp.com/album/s-ta-mu-lumi)” ilmus 2018 ja teine album [“Viimane suusataja”](https://puuluup.bandcamp.com/album/viimane-suusataja) 2021.\n\nLisaks arvukatele esinemistele Eestis on nad üles astunud Belgias, Hiinas, Hispaanias, Horvaatias, Indias, Inglismaal, Itaalias, Jaapanis, Kanadas, Koreas, Leedus, Lätis, Makedoonias, Norras, Poolas, Portugalis, Prantsusmaal, Rootsis, Saksamaal, Sloveenias, Soomes, Taiwanis, Tšehhis, Tšiilis, Ukrainas, Ungaris ja USAs.\n\nKoos ansambliga 5MIINUST osalesid nad 2024. aastal Eesti esindajana Eurovisiooni lauluvõistlusel Rootsis ja pääsesid finaalvooru. Vahetult enne seda ilmus neil ka ühine album “Kannatused ehk külakiigel pole stopperit”.\n\nHiiu kandleid elektroonikaga ristav Puuluup kõigub pärimuse ja kaasaegsete muusikastiilide piiril, flirtides maailmamuusika, undergroundi ja popiga. Puuluup juhib hiiu kandle jõhvkeelte võnked läbi efektiplokkide ja luuperi ning kasutab alternatiivseid mängutehnikaid ja heli tekitamise võimalusi. Hiiu kandle mahedale sahinale lisanduvad elektrooniliselt võimendatud kajad, koputused, kriuksud ja krabinad. Muusika on kohati tantsuliselt pulseeriva rütmiga ning kohati filmilik ja tume, hiilides muistsete Vormsi talharpamängijate kambrites ja kandub neist edasi. Kõlab traditsiooniga impregneeritud omaloomingut, viiteid pungiklassikale ja õpetliku sisuga romantilist neozombiepostfolki.\n\nMehed ise sõnavad oma loomingu kohta tagasihoidlikult nii: “Meie peamine sõnum rahvamuusika kontekstis on see, et vaadake, hiiu kandlega saab teha igasuguseid asju, õppige pilli ning tehke oma muusikat. See on see, milles meist võiks rahvamuusikale kasu olla.”\n\n****\n\n**21\\. veebruar 2025 Vabariigi aastapäeva kontsert**\n\n**Liisi Koikson trio**\n\n**Liisi Koikson**(sündinud 4. juunil 1983 Kilingi-Nõmmes) on eesti laulja, näitleja ja lauluõpetaja.\n\n1993\\. aastal võitis ta 8–10-aastaste vanuserühmas Eesti Televisiooni lastelaulukonkursi \"Laulukarussell\".\n\nTa on laulnud mitut laulu- ja tantsupidude tunnuslugu, näiteks \"Puu on puude kõrgune\", \"Viire takka\" ja \"Tuulevaiksel ööl\".\n\nLiisi Koikson lõpetas Kilingi-Nõmme Gümnaasiumi. Tema esimene lauluõpetaja oli aastatel 1991–1999 Toomas Voll. 2006. aastal lõpetas ta Georg Otsa nimelise Tallinna Muusikakooli (pop-jazz laulu erialal Mare Väljataga klassis). Aastatel 2011–2014 õppis ta Londonis Tech Music Schoolis (University of West London), kus omandas bakalaureusekraadi. Koikson on võtnud eratunde Zoja Hertzilt.\n\nTöö ja looming\n\nLiisi Koikson on töötanud Heino Elleri nimelises Muusikakoolis lauluõpetajana ning Eesti Nuku- ja Noorsooteatris.\n\nTa on mänginud muusikalides \"Evita\", \"Aida\", \"Helisev muusika\", \"Georg\" ja \"Jeesus Kristus superstaar\" ning osalenud lauluvõistlustel \"Laulukarussell\", \"Estvokaal\", Raimond Valgre lauluvõistlus ja \"Eurolaul\". Koikson esindas 2002. aasta Eurovisiooni lauluvõistlusel taustalauljana Maltat.\n\nLiisi Koikson mängis naispeaosa filmis \"Detsembrikuumus\".\n\n**Raun Juurikas**(sündinud 27. veebruaril 1982 on eesti džässpianist, helilooja, arranžeerija, muusikaprodutsent ja pedagoog. Lisaks pedagoogitöö. Raun Juurikas mängib ansamblites Slow Motion Orchestra ja Trio Solemnis, teeb tihedat koostööd Mihkel Mälgandi, Ahto Abneri, Toomas Rulli ja Liisi Koiksoniga. Raulil pole rahulikke aegu, kogu aeg on midagi uut käsil. Süntesaatorimaastiku \"halliks kardinaliks\" nimetatud Raun Juurikat on alati huvitanud elektrooniliste ja akustiliste helide ühendamine.\n\n**Martin Petermann** on mitmekülgne trummar. Martin on tegev erinevates koosseisudes nagu Liisi Koikson & Bänd, NÖEP, Angus, Alfa Collective, Tobias Tammearu Trio, Johannes Laas 5tet jpt. Ta on omandanud muusikalise hariduse nii Otsa, Elleri koolis kui ka Eesti Muusika ja Teatriakadeemias.\n\n****\n\n**8\\. märts 2025 Naistepäevakontsert**\n\nLaval Martin Karu (kontratenor), Villu Vihermäe (viola da gamba) ja Reinut Tepp (klavessiin).\n\n**Martin Karu** on noor Eesti kontratenor, kelle lauljakarjäär kogub hoogu nii kodu- kui rahvusvahelistel lavadel. \n\nMartin alustas lauluõpinguid Georg Otsa nimelises Tallinna Muusikakoolis, kus tema juhendajateks olid Risto Joost ning Eha Pärg. Tema õpingud jätkusid Londoni Guildhall School of Music & Drama’s rahvusvaheliselt tunnustatud kontratenor Andrew Wattsi juures, kelle juhendamisel omandas Martin Karu nii bakalaureuse (2022) kui ka magistrikraadi (2023). \n\nVaatamata Martini noorusele on tema lavakogemus väga mitmekesine, ulatudes renessansist nüüdis- ja eksperimentaalse muusikani, kammerlaulust suurvormide ettekanneteni. Viimaste hulka kuuluvad näiteks nii J. S. Bachi “Matteuse passioon” kui “Johannese passioon”, aga ka G. F. Händeli oratooriumid “Messias” ja “Jephta”. \n\n2023\\. aastal debüteerib Martin Karu ooperisolistina. Tema esimeseks lavarolliks on nimitegelane G. F. Händeli ooperis “Julius Caesar” Vanemuise teatris (esietendus 4.11). Sama aasta olulisemate ülesastumiste sekka võib lugeda veel ka koos Corelli Barokkorkestriga aset leidnud esimest täispikka soolokontserti (vaimulikud kantaadid, sh A. Vivaldi “Nisi Dominus”), soleerimist Vanemuise sümfooniaorkestri suvekontserdil Tartus, ja kevadist osalemist Händeli ooperi “Rinaldo” kontsertettekandel Baroquestock festivalil Londonis. 2022. aastal esines ta Music at Oxford festivalil Inglismaal, Arvo Pärdi teosega \"My heart's in the Highlands\". \n\nMartin on pälvinud mitmeid stipendiume ja tunnustusi. 2020. aastal autasustas president Kersti Kaljulaid teda noore õpetlase stipendiumiga. Lisaks on ta Hans Teetlausi fondi stipendiaat, Muusikute fondi PLMF preemia \"Noor laulja 2020\" laureaat ning 2022. aastal Londonis toimunud Händeli laulukonkursi poolfinalist. \n\n**Villu Vihermäe** on õppinud tšellot Tallinna Muusikakeskkoolis Laine Leichteri ning Eesti Muusika- ja Teatriakadeemias dotsent Henry-David Varema juures. Aastatel 2008–2011 täiendas ta end Leipzigi Muusika- ja Teatrikõrgkoolis professor Peter Hörri juhendamisel, lisaks on ta osalenud erinevatel meistrikursustel.\n\nVillu Vihermäe on pälvinud III koha August Dombrovska nimelisel keelpillimängijate konkursil Riias (1998), III koha ESTA keelpillimängijate konkursil Tallinnas (2003), III koha ja kahel korral I koha Eesti Muusika- ja Teatriakadeemia kammermuusika konkursil (2004, 2006 ja 2011).\n\nTa on esinenud solisti ja kammermuusikuna Baltimaades, Saksamaal, Austrias, Itaalias, Inglismaal ja Soomes. Lisaks ERSOle on ta töötanud Rahvusooper Estonia sümfooniaorkestris ja Tallinna Kammerorkestris.\n\nKõrvuti klassikalise tšelloga mängib ta alates 2004. aastast ka barokktšellot ning kuulub mitmesse barokkansamblisse, sh Corelli Consort, Corelli Barokkorkester ja ansambel Floridante. Alates 2015. aastast on ta pühendunud  _viola da gamba_ õppimisele ja mängimisele ning on end sellel alal täiendanud Markus Kuikka ja Peeter Klaasi juures. 2017. aastast korraldab ja veab ta Hiiumaal toimuvat festivali “Gambavaim”.\n\n**Reinut Tepp** on hinnatud klavessinist, kes lisaks muusikutegevusele mitmetes koosseisudes on tegev ka kammermuusika ja klavessiiniõppejõuna Georg Otsa nimelises Tallinna Muusikakoolis ja Eesti Muusika- ja Teatriakadeemias.\n\nReinut Tepp alustas muusikaõpinguid Tallinna 7. Keskkooli muusikaklassis, õppides aastatel 1976–1979 Samuel Lazikini juhendamisel klaverit. Õpinguid jätkusid Tallinna Muusikakeskkoolis, mille Tepp lõpetas aastal 1987 Ell Saviaugu klaveriklassis. Aastal 1993 lõpetas Reinut Tepp Tallinna Riikliku Konservatooriumi klaveri erialal prof. Laine Metsa juhendamisel ning aastal 1996 samas magistrantuuri prof. Laine Metsa klaveriklassis ja prof. Imbi Tarumi klavessiiniklassis. Lisaks on Tepp täiendanud end klavessinistina Huguette Dreyfusi meistrikursusel Prantsusmaal Villecroze´is.\n\nAastast 1987 on Reinut Tepp töötanud Ellerheina ettevalmistuskoori ja aastast 1992 Eesti Muusika- ja Teatriakadeemia klaverisaatjana. Aastast 1995 on Tepp Georg Otsa nim. Tallinna Muusikakooli kammermuusika õppejõud, aastast 1998 klavessiini õppejõud ning on sealse barokkmuusika ansambli \"Nova Casa\" kunstiline juht. Samuti töötab ta õppejõuna Eesti Muusika- ja Teatriakadeemias.\n\nAastast 1998 on Reinut Tepp tegev kammerorkestris Kremerata Baltica, samuti mängib Tepp Kremerata Baltica Sekstetis (kunstiline juht Gidon Kremer). Ta on esinenud orkestriga arvukatel kontsertidel ja festivalidel paljudes paikades üle maailma sh Carnegie Hall, Royal Albert Hall ja Tōkyō Suntory Hall ja andnud kontserte koos nimekate interpreetidega sh Michaela Petri, Sergio Azzolini, Kalev Kuljus, Moshe Aron Epstein ja Maria Fedotova. Reinut Tepp on teinud koostööd mitmete kollektiividega sh Tallinna Barokkorkester, Rondellus, Corelli Consort, Eesti Barokksolistid ja Tallinna Kammerorkester. Tihe koostöö seob teda varajase muusika ansambliga Cantores Vagantes.\n\nAastal 2010 pälvis Reinut Tepp Eesti Kultuurkapitali helikunsti sihtkapitali aastapreemia silmapaistva muusikalise partnerluse eest paljudes kollektiivides.\n\n**26\\. aprill 2025 Hooaja lõppkontsert.** Sandra Laagus (metsosopran) ja Piia Paemurru (klaver)\n\n**Sandra Laagus** (1998) alustas muusikaõpinguid Häädemeeste muusikakoolis viiuli erialal ning jätkas Tallinna Muusikakeskkoolis Aino Riikjärve viiuliklassis. Samas koolis alustas ta lauluõpinguid Triin Ella ja Juhan Tralla juhendamisel. Sandra on lõpetanud Eesti Muusika- ja Teatriakaademia klassikalise laulu eriala Juhan Tralla klassis. Ooperidebüüdi tegi ta 2022. aastal Vanemuise teatris Pireti rolliga Tõnis Kaumanni ooperis “Kaubamaja”, millele järgnesid Donna Elvira Mozarti ooperis “Don Giovanni” ning Seltsidaam Eino Tambergi ooperis “Cyrano de Bergerac”. Samal aastal Kuressaares laulis ta Papagena rolli Ain Angeri eestvedamisel valminud kogupereooperis „Võluflööt”.  \nHooajal 2023/24 laulab Sandra Laagus Caesari partiid Vanemuise teatris Händeli ooperi “Julius Caesar” uuslavastuses. Tema rahvusvaheline debüüt toimub Saksamaal teatris Semperoper Dresden aastal 2024, kus Sandra kanda on Mrs Smith roll Luciano Chailly ooperis “Die kahle Sängerin”. Koostöös Eesti Kontserdiga valmib 2023. sügisel Sandral Rosina roll kogupereooperis “Mängime Sevilla habemeajajat” ning detsembris soleerib ta ERSO jõulukontserdil. Ta on pälvinud 2022. aastal PLMF IV vabariiklikul vokalistide konkursil III preemia ja finalisti diplomi rahvusvahelisel vokalistide konkursil “Flame” Pariisis. 2023. aasta kevadel osales Sandra rahvusvahelisel konkursil “International Hans Gabor Belvedere Singing Competition”, kus jõudis 800 laulja hulgast poolfinaali. Ta on osalenud Perrine Madoeufi ja Ain Angeri meistrikursustel ning Nordopera programmi raames Rootsis Drottningholmi Palee Teatris barokklaulu meistrikursusel David Sterni juhendamisel (2019).\n\n**Piia Paemurru** lõpetas 1986. a. Tallinna Konservatooriumi prof. Laine Metsa klaveriklassis ja kaitses magistrikraadi klaveri erialal 1999. aastal. Praegu töötab ta Eesti Muusika- ja Teatriakadeemia lauluosakonnas klaverisaatjana.  \n  \nPaemurru on nii solisti kui ka ansamblistina esinenud Eestis, Soomes, Rootsis, Taanis, Saksamaal, Venemaal, Lätis ja Leedus. Kontserditegevus on teda kokku viinud selliste lauljatega nagu Eilene Hannan, Rhoda Achieng, Virgilijus Noreika, Jaakko Ryhänen, Margarita Voites, Mati Palm, Pille Lill, Nadia Kurem, Hanna-Liina Võsa, Oliver Kuusik, Aare Saal, Kädy Plaas, Marion Melnik, Priit Volmer, Angelika Mikk, René Soom, Teele Jõks, Helen Lokuta, Pirjo Püvi, Angelika Klas-Fagerlund ja teised. Tema ansamblipartneriteks on olnud mitmed instrumentalistid, nende hulgas Mari Tampere-Bezrodny, Peeter Paemurru, Anna-Liisa Bezrodny ja Vahur Vurm.  \n  \nPiia Paemurru on pälvinud mitmel lauljate võistlustel parima klaverisaatja eripreemia, sealhulgas viiel korral rahvusvahelisel Klaudia Taevi nimelisel ooperilauljate konkursil.  \n  \nKoos Rootsi soprani Ingegerd Björklundiga on Paemurru salvestanud kaks plaati (\"Cantatrice\", 1997 ja \"MU64\", 2001), Vello Jürna ja Guido Kanguriga CD \"Unuvad õhtud\" (2003) ning Pille Lille, Aare Saali ja Oliver Kuusikuga \"Marje Sink. Jõululaulud\" (2006).\n",
+            "img": "https://www.piletilevi.ee/imageGenerator/concertShort/aeae8441758232c223d6d0e491f8da78.webp",
+            "time_start": "2025-01-11T17:00:00Z",
+            "time_end": "2025-04-26T17:45:00Z",
+            "tickets_url": "https://store.piletilevi.ee/public/?concert=446003&design=piletilevi&lang=est&center=7",
+            "tickets_price": 80,
+            "tickets_currency": "EUR",
+            "categories": [
+              "Music"
+            ],
+            "updated": "2024-12-12T22:00:00Z",
+            "location": {
+              "name": "Lüdigi saal",
+              "address": "Kooli 13, Vändra, Pärnu maakond, Estonia",
+              "city": "Vändra",
+              "country": "Estonia"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "aa4f3900-638f-4dd8-9656-273eec74f254",
+            "ev_id": "c1d125e33cf5cb6fd59ff227ef6cca1e45ff6973",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7",
+            "name": "EKSKURSIJA  PAŽAISLIO VIENUOLYNE IR BAŽNYČIOJE",
+            "creator": "MB ,,Kauno gidas\"",
+            "description": "MB ,,Kauno gidas” maloniai kviečia į ekskursiją buvusiame kamaldulių vienuolyne Pažaislyje, kuris laikomas vienu gražiausių baroko ansamblių Baltijos šalyse! \n\nPažinkime Kauną kartu!\n\nPažaislio kamaldulių vienuolyno ir Švč. Mergelės Marijos Apsilankymo bažnyčios mįslinga trauka nuo seno žadino žmonių vaizduotę. Vienuolyną XVII amžiaus antroje pusėje įkūrė Lietuvos Didžiosios Kunigaikštystės kancleris Kristupas Zigmantas Pacas. Vienuolyno statyba prasidėjo 1667 metais. Kalnas, ant kurio buvo numatytas pastatas, buvo pavadintas  _MontePacis_(Taikos kalnas).\n\nŠiandien vienuolynas skaičiuoja jau daugiau nei tris šimtmečius trunkančią, legendomis apipintą istoriją, žavi išskirtine barokine išvaizda ir spalvinga jį supančia aplinka. Ekskursijos metu aplankysime vienuolyną ir bažnyčią. Gidas papasakos apie vienuolius kamaldulius ir kitus vienuolyno šeimininkus, apie jo fundatorius ir čia dirbusius garsiausius to meto meistrus, atskleis freskų paslaptis.\n\nEkskursijos pradžia: Pažaislio kamaldulių vienuolynas ( T. Masiulio g. 31, Kaunas). Gidas lauks Jūsų Pažaislio vienuolyne prie kasos. \n\nEkskursijos trukmė: 1 val. 45 min.\n\nEkskursijos bilieto kaina: 15 Eur suaugusiam asmeniui; 12 Eur senjorui, studentui. Vaikams iki 18 metų,**** dalyvaujantiems ekskursijoje kartu su suaugusiais šeimos nariais nemokamai. \n\nVisiems ekskursijos dalyviams papildomai, muziejaus kasoje, būtina įsigyti Pažaislio vienuolyno ansamblio lankytojo bilietą: 6 Eur suaugusiam, 3 Eur moksleiviui, studentui, senjorui. Nuo 2025 m. balandžio 1 d. Pažaislio vienuolyno ansamblio lankytojo bilieto kaina: 10 Eur suaugusiam, 5 Eur mokiniui, studentui, senjorui.\n\nEkskursiją Pažaislio vienuolyne galima užsisakyti ir privačiai, Jums patogiu laiku, Pažaislio vienuolyno ansamblio darbo metu: nuo antradienio iki penktadienio – 10 -17 val., šeštadieniais 10-16 val. Užsakomos ekskursijos gali būti vedamos lietuvių, anglų rusų arba vokiečių kalbomis. Grupėms taikomos nuolaidos.\n\nGalite įsigyti ir dovanų kuponą. \n\nDaugiau informacijos: tel. +370 698 73272, el. p. info@kaunastour.lt, www.kaunastour.lt\n\nJeigu jaučiate peršalimui būdingus simptomus, prašome susisiekti ir suteiksime galimybę perkelti ekskursijos datą! \n\nRekomenduojama avalynė ir apranga pagal oro sąlygas.\n\nPinigų grąžinimas:\n\n  * Jeigu įsigijote bilietą į viešai paskelbtą ekskursiją, tačiau Jūsų planai pasikeitė, pinigai už bilietą negrąžinami (pagal CK 6.22810 str. 12 p. vartotojai negali atsisakyti sutarčių dėl apgyvendinimo, prekių vežimo, automobilių nuomos, viešojo maitinimo ar laisvalaikio paslaugų, jeigu sutartyje nustatyta konkreti paslaugų teikimo data ar laikotarpis).\n  * Pinigus už įsigytus bilietus į viešai paskelbtas ekskursijas grąžinami tais atvejais, kai renginys yra atšaukiamas, perkeliamas, o naujai pasiūlyta data ar vieta Jums netinka.\n\n\n",
+            "img": "https://tickets.paysera.com/public/images/315b7f0b-82cc-11ef-8e30-0050562fceaa/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7_lt__1737558894.jpeg?61b1d7d9cf270f44b255f47fe47e6414?v30",
+            "time_start": "2025-01-13T14:20:00Z",
+            "time_end": "2025-03-31T09:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/ekskursija-pazaislyje-vienuolynas-ir-baznycia-eed7/buy",
+            "tickets_price": 12,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-15T19:29:50Z",
+            "location": {
+              "name": "Pažaislis Monastery and Church",
+              "address": "T. Masiulio g. 31, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "4f5372cc-bbf0-4553-88d7-4dff3cbd12e3",
+            "ev_id": "864dd135f135a46245265921adbe0f383ede30aa",
+            "ev_from": "eventim.de",
+            "url": "https://www.eventim.de/event/praeventionskurs-yin-yoga-soulspaces-loft-soulspaces-loft-19659179/",
+            "name": "Präventionskurs Yin Yoga",
+            "creator": "",
+            "description": "Es handelt sich hier um einen Yoga Kurs, der von den gesetzlichen Krankenkassen gefördert wird. ",
+            "img": "https://www.eventim.de/obj/mam/eventim.light/3c/89/praeventionskurs-yin-yoga-tickets_340612_2913770_222x222.jpg",
+            "time_start": "2025-01-13T17:45:00Z",
+            "time_end": "2025-03-03T19:00:00Z",
+            "tickets_url": "https://www.eventim.de/event/praeventionskurs-yin-yoga-soulspaces-loft-soulspaces-loft-19659179/",
+            "tickets_price": 145.37,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-05T19:34:17Z",
+            "location": {
+              "name": "Soulspaces Loft",
+              "address": "Haferkamp 2, Hamburg, Germany",
+              "city": "Hamburg",
+              "country": "Germany"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "8cd9260b-e8d0-4593-8dac-746f89f652bd",
+            "ev_id": "40e245eee8ce955196fd46d56fb90e8fc9848d6b",
+            "ev_from": "eventim.fr",
+            "url": "https://www.eventim.fr/event/les-nuits-du-parc-des-oiseaux-parc-des-oiseaux-villars-les-dombes-19711027/",
+            "name": "Les Nuits du Parc des Oiseaux",
+            "creator": "",
+            "description": "",
+            "img": "https://www.eventim.fr/obj/mam/france/e7/77/nuits-parc-des-oiseaux-tickets_345753_2968480_222x222.jpg",
+            "time_start": "2025-01-13T22:00:00Z",
+            "time_end": "2025-03-08T21:59:00Z",
+            "tickets_url": "https://www.eventim.fr/event/les-nuits-du-parc-des-oiseaux-parc-des-oiseaux-villars-les-dombes-19711027/",
+            "tickets_price": 0,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Bird park Villars les Dombes",
+              "address": "Parking lot, D1083, France",
+              "city": "Villars-les-Dombes",
+              "country": "France"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "8f09c8d2-e08f-400a-a0c8-a192e4aeefcd",
+            "ev_id": "e763d25e2eb9f7bfcd46e295d47a5f6845c68b02",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/soboras-griauti-negalima-pasigaileti-ekskursija",
+            "name": "SOBORAS. Ekskursija su katakombų lankymu. \"GRIAUTI NEGALIMA IŠSAUGOTI\"",
+            "creator": "Trip Guru",
+            "description": "**SOBORAS**. \"GRIAUTI NEGALIMA IŠSAUGOTI\". **Ekskursija su katakombų lankymu.**\n\nGidės RIMUTĖS ekskursija:\n\nSoboras. Virsmai: per trylika dešimtmečių išgyvenęs kardinalius pasikeitimus nuo cerkvės, evangelikų bažnyčios iki vitražo galerijos ir katalikų šventovės, Soboras žmonių lūpose išliko „soboru“. Pelkėj pastatytas, garsėjęs ne tik dydžiu, bet ir varpų skambesiu, šimtais skaičiuotomis ikonomis sienų tapyboje ir ikonostase. Keitėsi laikai, keitėsi šeimininkai, keitėsi ir svarba. \n\n„Griauti negalima išsaugoti“ – kur dėti kablelį? \n\nEkskursijoje kalbėsime apie dramatiškus pokyčius, ginčus, menininkų eksperimentus, sugrąžintus kryžius bei Šv. arkangelo Mykolo (Įgulos) bažnyčioje išlikusį dvasingumą. \n\nIr dar daugiau.\n\nPo bažnyčia esančiuose rūsiuose įrengtos „XXI a. katakombos“. Užmerk akis ir atrasi: visiškoje tamsoje jas įveikti padės tik mūsų klausos, uoslės ir lytėjimo pojūčiai. Išbandysime, ką patiria matantiesiems pritaikytame pasaulyje gyvenantys aklieji.\n\nEkskursijos kaina vienam dalyviui:  \n15 Eur / 1 dalyvis  \n12 Eur / 1 dalyvis (senjorams, studentams, 9-12kl. moksleiviams, neįgaliesiems)\n\nBilieto kainoje įskaičiuota auka/parama bažnyčios paveldo išsaugojimui ir įėjimo bilietas į „XXI a. katakombas“- Aklųjų instaliaciją.\n\n**sausio 24 d., penktadienį, nuo 12.45h**\n\n**vasario 21 d., penktadienį, nuo 12.45h**\n\n**vasario 28 d., penktadienį, nuo 12.45h**\n\nĮsigytas bilietas reiškia, kad jūs jau užsiregistravote į šį renginį. Pasiteiravimui: elektroniniu laišku rimutemika@gmail.com , arba tel. +370 687 74423 .\n\nVaikams ir 1-8 kl. moksleiviams, dalyvaujantiems ekskursijoje kartu su suaugusiais šeimos nariais – ekskursija nemokamai (registracija reikalinga, taip pat 2 Eur bilietui į katakombas).\n\nEkskursija vyks ir lauke, ir viduje- pasirūpinkite tinkamu pagal orą apsirengimu ir, jei reikalinga, apsauga nuo lietaus.\n\nEkskursijos trukmė ~ 1h45min\n\nSusitikimo vieta lauke, prie įėjimo laiptų į bažnyčią.\n\nBilieto galiojimas: jei negalite dalyvauti, pasirūpinkite bilieto perleidimu kitam asmeniui.  \n[**#ekskursija**](https://www.facebook.com/hashtag/ekskursija?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#ekskursijoskaune**](https://www.facebook.com/hashtag/ekskursijoskaune?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) #tripguru [**#giderimute**](https://www.facebook.com/hashtag/giderimute?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#tripguru**](https://www.facebook.com/hashtag/tripguru?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#sakraliniskaunas**](https://www.facebook.com/hashtag/sakraliniskaunas?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#kaunogidai**](https://www.facebook.com/hashtag/kaunogidai?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q)\n",
+            "img": "https://tickets.paysera.com/public/images/9b3f7387-9257-11ef-8d2a-0050568dc731/soboras-griauti-negalima-pasigaileti-ekskursija_lt__1737120359.jpeg?f9e76ebd8e8e0c3194869f20ab274c29?v30",
+            "time_start": "2025-01-16T13:40:00Z",
+            "time_end": "2025-02-28T10:45:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/soboras-griauti-negalima-pasigaileti-ekskursija/buy",
+            "tickets_price": 12,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-17T19:30:09Z",
+            "location": {
+              "name": "Church of St. Michael the Archangel, Kaunas",
+              "address": "Nepriklausomybės a. 14, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "5ad9d7ae-7499-48ee-90e0-0b4b4c8b760e",
+            "ev_id": "7d72e81e8b2da0fc669c9b0e5877e3acc1aab754",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/soboras-griauti-negalima-pasigaileti-ekskursija",
+            "name": "SOBORAS. Ekskursija su katakombų lankymu. \"GRIAUTI NEGALIMA IŠSAUGOTI\"",
+            "creator": "Trip Guru",
+            "description": "**SOBORAS**. \"GRIAUTI NEGALIMA IŠSAUGOTI\". **Ekskursija su katakombų lankymu.**\n\nGidės RIMUTĖS ekskursija:\n\nSoboras. Virsmai: per trylika dešimtmečių išgyvenęs kardinalius pasikeitimus nuo cerkvės, evangelikų bažnyčios iki vitražo galerijos ir katalikų šventovės, Soboras žmonių lūpose išliko „soboru“. Pelkėj pastatytas, garsėjęs ne tik dydžiu, bet ir varpų skambesiu, šimtais skaičiuotomis ikonomis sienų tapyboje ir ikonostase. Keitėsi laikai, keitėsi šeimininkai, keitėsi ir svarba. \n\n„Griauti negalima išsaugoti“ – kur dėti kablelį? \n\nEkskursijoje kalbėsime apie dramatiškus pokyčius, ginčus, menininkų eksperimentus, sugrąžintus kryžius bei Šv. arkangelo Mykolo (Įgulos) bažnyčioje išlikusį dvasingumą. \n\nIr dar daugiau.\n\nPo bažnyčia esančiuose rūsiuose įrengtos „XXI a. katakombos“. Užmerk akis ir atrasi: visiškoje tamsoje jas įveikti padės tik mūsų klausos, uoslės ir lytėjimo pojūčiai. Išbandysime, ką patiria matantiesiems pritaikytame pasaulyje gyvenantys aklieji.\n\nEkskursijos kaina vienam dalyviui:  \n15 Eur / 1 dalyvis  \n12 Eur / 1 dalyvis (senjorams, studentams, 9-12kl. moksleiviams, neįgaliesiems)\n\nBilieto kainoje įskaičiuota auka/parama bažnyčios paveldo išsaugojimui ir įėjimo bilietas į „XXI a. katakombas“- Aklųjų instaliaciją.\n\n**sausio 24 d., penktadienį, nuo 12.45h**\n\n**vasario 21 d., penktadienį, nuo 12.45h**\n\n**vasario 28 d., penktadienį, nuo 12.45h**\n\nĮsigytas bilietas reiškia, kad jūs jau užsiregistravote į šį renginį. Pasiteiravimui: elektroniniu laišku rimutemika@gmail.com , arba tel. +370 687 74423 .\n\nVaikams ir 1-8 kl. moksleiviams, dalyvaujantiems ekskursijoje kartu su suaugusiais šeimos nariais – ekskursija nemokamai (registracija reikalinga, taip pat 2 Eur bilietui į katakombas).\n\nEkskursija vyks ir lauke, ir viduje- pasirūpinkite tinkamu pagal orą apsirengimu ir, jei reikalinga, apsauga nuo lietaus.\n\nEkskursijos trukmė ~ 1h45min\n\nSusitikimo vieta lauke, prie įėjimo laiptų į bažnyčią.\n\nBilieto galiojimas: jei negalite dalyvauti, pasirūpinkite bilieto perleidimu kitam asmeniui.  \n[**#ekskursija**](https://www.facebook.com/hashtag/ekskursija?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#ekskursijoskaune**](https://www.facebook.com/hashtag/ekskursijoskaune?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) #tripguru [**#giderimute**](https://www.facebook.com/hashtag/giderimute?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#tripguru**](https://www.facebook.com/hashtag/tripguru?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#sakraliniskaunas**](https://www.facebook.com/hashtag/sakraliniskaunas?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q) [**#kaunogidai**](https://www.facebook.com/hashtag/kaunogidai?__eep__=6&__cft__%5B0%5D=AZXo_H0uZYWWZrHNVBE9zQB9gx3xedQITOvqSJLqbBSmVZLymo2K8a61wf6ULzG9-4gD01uMG16DKOz1ExiUmwuvngIJgEw28Xq2HwzEL5XttA7u_cX1ffdvebT4gh5hbgFUA2tPqMSsrVBZea-RjO2f&__tn__=q)\n",
+            "img": "https://tickets.paysera.com/public/images/9b3f7387-9257-11ef-8d2a-0050568dc731/soboras-griauti-negalima-pasigaileti-ekskursija_lt__1737491201.jpeg?5aee6b1707d6688120a2d2fcc9d11b11?v30",
+            "time_start": "2025-01-20T20:15:00Z",
+            "time_end": "2025-02-28T10:45:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/soboras-griauti-negalima-pasigaileti-ekskursija/buy",
+            "tickets_price": 12,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-01-22T19:37:51Z",
+            "location": {
+              "name": "Church of St. Michael the Archangel, Kaunas",
+              "address": "Nepriklausomybės a. 14, Kaunas, Lithuania",
+              "city": "Kaunas",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "b2a959c3-4979-4001-a122-548aac7921a2",
+            "ev_id": "607f909d45e49dd4d467840a6ad39c014d9a4b44",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/somelje-kursai-3-semestras",
+            "name": "Someljė kursai. 3 semestras",
+            "creator": "VšĮ Someljė mokykla",
+            "description": "## Aprašymas\n\nSomeljė studijos – tai vyno pažinimo kursai, tinkantys tiek pradedantiesiems vyno mėgėjams, tiek industrijoje dirbantiems profesionalams.\n\nStudijų metu teorinių ir praktinių užsiėmimų pagalba studentai išmoksta ne tik vertinti ir atpažinti pagrindines vynuogių veisles, bet ir pagilina savo žinias vyno gamybos srityje, vyno regionų pažinime bei maisto ir gėrimų derinime.\n\nStudijose dėsto geriausi Lietuvos vyno ekspertai, o jas baigė – jau daugiau nei 2000 studentų Lietuvoje.\n\n## Studijų trukmė\n\nSomeljė studijų programa yra suskirstyta į tris semestrus. Kiekviename semestre yra po 12 paskaitų, kurios vyksta kartą per savaitę.\n\nVienas semestras trunka 4 mėnesius, visi trys – pusantrų metų. Studijas galima nutraukti po kiekvieno semestro.\n\n## Studijų formatas\n\nVisos paskaitos vyksta gyvai, Lietuvos someljė mokykloje, Stumbrų g. 15, Vilniuje (prie PC Panoramos).\n\nKiekviena paskaita susideda iš eksperto dėstomos teorinės medžiagos ir 4-6 teoriją atspindinčių vynų degustacijos. Per visą kursą (3 semestrus) paragaujama apie 300 skirtingų vynų.\n\n## Studijų programa\n\n**I semestras**| **II semestras**| **III semestras**  \n---|---|---  \n-Vyno gamybos bei degustavimo pagrindai  \n-Pagrindiniai vyno rūšys ir stiliai  \n-Pagrindinės vynuogių rūsys  \n-Vyno ir maisto derinimo principai  \n**-Egzaminas**|  -Vyno stilių skirtumai ir priežastys  \n-Nacionalinės skirtingų šalių vynuogės  \n-Alkoholio įstatymai, sveikata  \n-Vyno ir maisto derinimas giliau  \n-**Egzaminas**| **-Geriausi pasaulio vynai**  \n**-Vynas ir ekonomika**  \n**-Vynas ir kultūra**  \n**-Vyno ir maisto derinimas**  \n**-Egzaminas**  \n\\+ dvi pasirenkamosios paskaitos apie sakę, kavą, arbatą, tekilą ar pan.| \\+ dvi pasirenkamosios paskaitos apie sakę, kavą, arbatą, tekilą ar pan.| **\\+ dvi pasirenkamosios paskaitos apie sakę, kavą, arbatą, tekilą ar pan.**  \nData: 2024 m. sausio 27 d.Kaina: 1300 EUR| Data: 2024 m. sausio 28 d.Kaina: 1300 EUR| **Data: 2024 m. sausio 22 d.****Kaina: 1300 EUR**  \n|  |   \n  \n _Galime išrašyti sąskaitą įmonėms bei išrašyti dovanų čekius. Fizinius čekius galima įsigyti ir vyno parduotuvėje „Vyno klubas“ (Stumbrų g. 15, Vilnius)._\n\n## Ką gauna studentai?\n\n  * 6 Zwiezel degustacinės taurės\n  * Mokomoji medžiaga – konspektai\n  * Vyno vertinimo lentelė\n  * Mokyklos atributika\n  * Someljė asociacijos pripažįstamas sertifikatas (po kiekvieno semestro)\n  * Mokyklos ženkliukas\n  * Nuolaidos į industrijos renginius – Vyno dienas, Vyno ir desertų derinimo čempionatą ir t.t.\n  * Nuolaida apsipirkimui \"Vyno klubas\" parduotuvėse\n\n\n\n## Reikalavimai studentams\n\nStudentais mokykloje gali būti visi 20 metų turintys vyno mėgėjai bei industrijos profesionalai.\n\nNorint studijuoti mokykloje nereikia turėti jokių žinių apie vyną. Pradedame mokytis nuo degustavimo pagrindų ir sistemingai giliname žinias eigoje.\n\n**Studijos vyksta lietuvių kalba.**\n\n## Socialinė atsakomybė\n\nSocialiai atsakingas alkoholio vartojimas yra visų Lietuvos someljė mokyklos organizuojamų mokymo programų dalis.   \n  \nVisose paskaitose naudojame spjaudykles, studentai aprūpinami vandeniu. Taip pat didžiuojamės galėdama būti ir tarptautinės saikingo vartojimo organizacijos [„Wine in Moderation“](https://www.wineinmoderation.eu/) dalimi.  \n  \n**Turite klausimų?**\n\nJei turite klausimų apie studijų formatą, programą, dėstytojus ar datas – parašykite mums info@someljemokykla.lt arba skambinkite +370 655 40970.\n",
+            "img": "https://tickets.paysera.com/public/images/clwalxyww0027356pc31a14r6/somelje-kursai-3-semestras_lt__1733295416.jpeg?fd5655c3192e4b3e3a67b2b493723f16?v30",
+            "time_start": "2025-01-22T16:00:00Z",
+            "time_end": "2025-04-16T15:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/somelje-kursai-3-semestras/buy",
+            "tickets_price": 1300,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2024-12-13T22:00:00Z",
+            "location": {
+              "name": "Stumbrų g. 15",
+              "address": "Stumbrų g. 15, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "ae228ecc-c75b-4643-823b-73a11a458237",
+            "ev_id": "247d6cc5ab59dfb8916e778ca1948057c3717c6f",
+            "ev_from": "tickets.paysera.com",
+            "url": "https://tickets.paysera.com/lt/event/somelje-kursai-3-semestras",
+            "name": "Someljė studijos. 3 semestras",
+            "creator": "VšĮ Someljė mokykla",
+            "description": "## Aprašymas\n\nSomeljė studijos – tai vyno pažinimo kursai, tinkantys tiek pradedantiesiems vyno mėgėjams, tiek industrijoje dirbantiems profesionalams.\n\nStudijų metu teorinių ir praktinių užsiėmimų pagalba studentai išmoksta ne tik vertinti ir atpažinti pagrindines vynuogių veisles, bet ir pagilina savo žinias vyno gamybos srityje, vyno regionų pažinime bei maisto ir gėrimų derinime.\n\nStudijose dėsto geriausi Lietuvos vyno ekspertai, o jas baigė – jau daugiau nei 2000 studentų Lietuvoje.\n\n## Studijų trukmė\n\nSomeljė studijų programa yra suskirstyta į tris semestrus. Kiekviename semestre yra po 12 paskaitų, kurios vyksta kartą per savaitę.\n\nVienas semestras trunka 4 mėnesius, visi trys – pusantrų metų. Studijas galima nutraukti po kiekvieno semestro.\n\n## Studijų formatas\n\nVisos paskaitos vyksta gyvai, Lietuvos someljė mokykloje, Stumbrų g. 15, Vilniuje (prie PC Panoramos).\n\nKiekviena paskaita susideda iš eksperto dėstomos teorinės medžiagos ir 4-6 teoriją atspindinčių vynų degustacijos. Per visą kursą (3 semestrus) paragaujama apie 300 skirtingų vynų.\n\n## Studijų programa\n\n**I semestras**| **II semestras**| **III semestras**  \n---|---|---  \n-Vyno gamybos bei degustavimo pagrindai  \n-Pagrindiniai vyno rūšys ir stiliai  \n-Pagrindinės vynuogių rūsys  \n-Vyno ir maisto derinimo principai  \n**-Egzaminas**|  -Vyno stilių skirtumai ir priežastys  \n-Nacionalinės skirtingų šalių vynuogės  \n-Alkoholio įstatymai, sveikata  \n-Vyno ir maisto derinimas giliau  \n-**Egzaminas**| **-Geriausi pasaulio vynai**  \n**-Vynas ir ekonomika**  \n**-Vynas ir kultūra**  \n**-Vyno ir maisto derinimas**  \n**-Egzaminas**  \n\\+ dvi pasirenkamosios paskaitos apie sakę, kavą, arbatą, tekilą ar pan.| \\+ dvi pasirenkamosios paskaitos apie sakę, kavą, arbatą, tekilą ar pan.| **\\+ dvi pasirenkamosios paskaitos apie sakę, kavą, arbatą, tekilą ar pan.**  \nData: 2024 m. sausio 27 d.Kaina: 1300 EUR| Data: 2024 m. sausio 28 d.Kaina: 1300 EUR| **Data: 2024 m. sausio 22 d.****Kaina: 1300 EUR**  \n|  |   \n  \n _Galime išrašyti sąskaitą įmonėms bei išrašyti dovanų čekius. Fizinius čekius galima įsigyti ir vyno parduotuvėje „Vyno klubas“ (Stumbrų g. 15, Vilnius)._\n\n## Ką gauna studentai?\n\n  * 6 Zwiezel degustacinės taurės\n  * Mokomoji medžiaga – konspektai\n  * Vyno vertinimo lentelė\n  * Mokyklos atributika\n  * Someljė asociacijos pripažįstamas sertifikatas (po kiekvieno semestro)\n  * Mokyklos ženkliukas\n  * Nuolaidos į industrijos renginius – Vyno dienas, Vyno ir desertų derinimo čempionatą ir t.t.\n  * Nuolaida apsipirkimui \"Vyno klubas\" parduotuvėse\n\n\n\n## Reikalavimai studentams\n\nStudentais mokykloje gali būti visi 20 metų turintys vyno mėgėjai bei industrijos profesionalai.\n\nNorint studijuoti mokykloje nereikia turėti jokių žinių apie vyną. Pradedame mokytis nuo degustavimo pagrindų ir sistemingai giliname žinias eigoje.\n\n**Studijos vyksta lietuvių kalba.**\n\n## Socialinė atsakomybė\n\nSocialiai atsakingas alkoholio vartojimas yra visų Lietuvos someljė mokyklos organizuojamų mokymo programų dalis.   \n  \nVisose paskaitose naudojame spjaudykles, studentai aprūpinami vandeniu. Taip pat didžiuojamės galėdama būti ir tarptautinės saikingo vartojimo organizacijos [„Wine in Moderation“](https://www.wineinmoderation.eu/) dalimi.  \n  \n**Turite klausimų?**\n\nJei turite klausimų apie studijų formatą, programą, dėstytojus ar datas – parašykite mums info@someljemokykla.lt arba skambinkite +370 655 40970.\n",
+            "img": "https://tickets.paysera.com/public/images/clwalxyww0027356pc31a14r6/somelje-kursai-3-semestras_lt__1736110013.jpeg?efc5e3d82fd78efbf1033f341f4300ff?v30",
+            "time_start": "2025-01-22T16:00:00Z",
+            "time_end": "2025-04-16T15:00:00Z",
+            "tickets_url": "https://tickets.paysera.com/lt/event/somelje-kursai-3-semestras/buy",
+            "tickets_price": 1300,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-26T19:43:39Z",
+            "location": {
+              "name": "Stumbrų g. 15",
+              "address": "Stumbrų g. 15, Vilnius, Lithuania",
+              "city": "Vilnius",
+              "country": "Lithuania"
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "27f99a4c-c54f-42f2-94ec-0d919197cd6b",
+            "ev_id": "df89cf38406b2d29300add5e67b562579b0cea34",
+            "ev_from": "eventim.de",
+            "url": "https://www.eventim.de/event/fit-mom-to-be-fit-durch-die-schwangerschaft-kursraum-lehmkuelchen-19712103/",
+            "name": "Fit Mom to be - Fit durch die Schwangerschaft",
+            "creator": "",
+            "description": "",
+            "img": "https://www.eventim.de/obj/mam/eventim.light/7d/39/fit-mom-to-be-tickets_313972_2636436_222x222.jpg",
+            "time_start": "2025-01-23T14:30:00Z",
+            "time_end": "2025-03-12T22:00:00Z",
+            "tickets_url": "https://www.eventim.de/event/fit-mom-to-be-fit-durch-die-schwangerschaft-kursraum-lehmkuelchen-19712103/",
+            "tickets_price": 131.5,
+            "tickets_currency": "EUR",
+            "categories": null,
+            "updated": "2025-02-23T22:00:00Z",
+            "location": {
+              "name": "Kursraum im Lehmkülchen",
+              "address": "Passstraße 106, Aachen, Germany",
+              "city": "Aachen",
+              "country": "Germany"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

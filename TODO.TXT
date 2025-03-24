@@ -1,0 +1,4 @@
+
+Add functionality to close the dropdown menu not only on clicking outside the dropdown menu but on any of the buttons aswell
+
+Add highlights to the filter buttons to show the active filter

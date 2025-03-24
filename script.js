@@ -13,43 +13,6 @@ menuToggle.addEventListener('click', () => {
   menu.style.opacity = menuToggle.classList.contains('active') ? '1' : '0';
 });
 
-// /// Add event listener to window scroll
-// window.addEventListener('scroll', function () {
-//   /// Get the current scroll position
-//   var scrollPosition = window.scrollY;
-
-//   /// Set the threshold for the button to appear
-//   var buttonThreshold = 150;
-
-//   /// Set the threshold for the .social to disappear
-//   var socialThreshold = 300;
-
-//   /// Check if the user has scrolled past the threshold
-//   if (scrollPosition >= buttonThreshold) {
-//     /// Show the button
-//     topButton.style.opacity = '1';
-//   } else {
-//     /// Hide the button
-//     topButton.style.opacity = '0';
-//   }
-
-//   if (scrollPosition >= socialThreshold) {
-//     /// Hide the .social and .footer
-//     homeFooter.style.opacity = '0';
-//     homeFooter.style.pointerEvents = 'none';
-
-//     stickyHeader.style.opacity = '1';
-//     stickyHeader.style.pointerEvents = 'auto';
-//   } else {
-//     /// Show the .social and .footer
-//     homeFooter.style.opacity = '1';
-//     homeFooter.style.pointerEvents = 'auto';
-
-//     stickyHeader.style.opacity = '0';
-//     stickyHeader.style.pointerEvents = 'none';
-//   }
-// });
-
 window.addEventListener('scroll', function () {
   var scrollPosition = window.scrollY;
   var buttonThreshold = 150;
@@ -117,14 +80,14 @@ window.addEventListener('scroll', () => {
   }
 });
 
-// ! Leaflet logo disappearance/appearance
+/// Leaflet logo disappearance/appearance
 const toggleButton = document.querySelector('.toggle');
 const homeSection = document.querySelector('#home-section');
 const leafletLogo = document.querySelector('#leaflet-logo');
 
 toggleButton.addEventListener('click', () => {
   homeSection.classList.toggle('toggled');
-  
+
   if (homeSection.classList.contains('toggled')) {
     leafletLogo.style.opacity = '0'; /// Hide logo
     leafletLogo.style.pointerEvents = 'none'; /// Disable interactions (optional)
